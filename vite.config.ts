@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/acai-map'
+  base: '/ACAI'
 })
