@@ -1,0 +1,700 @@
+﻿rank,percentileRank,acaiIndicators,institution,index,lat,lng,dx,dy,yype,researchActivity,regionalCoverage,sizeBucket,sizeStudentsInThousands,t1UniversityRulesPoliciesRegulations,t2CenterForTeachingAndLearning,t3AiInstituteInitiativeCenterHubAi,t4LibraryLibraryGuides,t5AcademicIntegrityHonorCode,t6AiSteeringCommitteeTaskForce,t7OtherRelevantLinks,,,
+1,1,81.82,University of New Hampshire,U27,43.1356,-70.9333,0,0,Public Research-Oriented,R1,Northeast,medium,14,"- https://www.usnh.edu/it/departments/cybersecurity/cybersecurity-policies-standards/artificial-intelligence-standard 
+- https://td.usnh.edu/TDClient/60/Portal/KB/ArticleDet?ID=5146 
+- https://www.unh.edu/teaching-learning-resource-hub/delivery/generative-artificial-intelligence ","- https://www.unh.edu/e3/ceitl   
+- https://www.unh.edu/e3/ceitl/center-excellence-innovation-teaching-learning   
+- https://www.unh.edu/e3/ceitl/history-ceitl/ceitl-mission-statement   
+- https://www.unh.edu/teaching-learning-resource-hub/delivery/generative-artificial-intelligence ","- https://www.usnh.edu/it/artificial-intelligence 
+- https://www.unh.edu/teaching-learning-resource-hub/delivery/generative-artificial-intelligence ",- https://libraryguides.unh.edu/c.php?g=464201&p=10049703 ,- https://catalog.unh.edu/srrr/student-policies-regulations/academic-integrity/  ,- https://www.unh.edu/fac-senate/committees/ad-hoc-committees/special-committee-artificial-intelligence ,- https://www.unh.edu/career/generative-ai-career ,,,
+2,3,80.3,Portland State University,U16,45.5122,-122.6819,0,0,Public Research-Oriented,R2,West,large,20,"- https://www.pdx.edu/academic-affairs/ai   
+- https://www.pdx.edu/dean-student-life/academic-misconduct   
+- https://oaiplus.pdx.edu/syllabus-template/ ","- https://www.pdx.edu/academic-affairs/ai   
+- https://www.pdx.edu/academic-innovation/teaching-innovation   ",- https://www.pdx.edu/academic-affairs/ai ,"- https://guides.library.pdx.edu/home/topics  
+- https://guides.library.pdx.edu/AIresearch 
+- https://guides.library.pdx.edu/c.php?g=1446447&p=10749323 
+- https://guides.library.pdx.edu/cite/AI 
+- https://guides.library.pdx.edu/c.php?g=1446447&p=10833506 ",- https://www.pdx.edu/dean-student-life/academic-misconduct   ,- https://www.pdx.edu/academic-affairs/ai ,"- https://www.pdx.edu/academic-affairs/ai 
+- https://www.pdx.edu/technology/notebooklm 
+- https://www.pdx.edu/technology/gemini 
+- https://sites.google.com/pdx.edu/innovaite-psu/home ",,,
+3,3,80.3,Stanford University,U42,37.4275,-122.1697,0,0,Private Research-Oriented,R1,West,medium,18,"- https://communitystandards.stanford.edu/generative-ai-policy-guidance 
+- https://uit.stanford.edu/security/responsibleai 
+- https://uit.stanford.edu/ai/use-cases 
+- https://communitystandards.stanford.edu/generative-ai-policy-guidance 
+- https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide/creating-your-course-policy-ai ","- https://ctl.stanford.edu/academic-tech   
+- https://ctl.stanford.edu/aimes   
+- https://ctl.stanford.edu/opportunities/department-guidance-draft-quant1   
+- https://ctl.stanford.edu/strategies-limiting-ai-use   
+- https://teachingcommons.stanford.edu/professional-development/workshops-programs/do-it-yourself-workshop-kits ","- https://hai.stanford.edu/   
+- https://iai.stanford.edu/ 
+- https://aimi.stanford.edu/   
+- https://ai4all.spcs.stanford.edu/ 
+- https://momentum.stanford.edu/initiatives/human-centered-artificial-intelligence 
+- https://uit.stanford.edu/ai ",- https://guides.library.stanford.edu/ai_research ,"- https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/feedback-and-assessment/academic-honesty-and-stanfords 
+- https://studentaffairs.stanford.edu/AIWG 
+- https://studentaffairs.stanford.edu/AIWG/charge-academic-integrity-working-group ",- https://studentaffairs.stanford.edu/AIWG/charge-academic-integrity-working-group ,"- https://uit.stanford.edu/ai 
+- https://stanfordaialignment.org/ ",,,
+4,5,77.27,University of Texas at Austin,U2,30.2849,-97.7341,0,0,Public Research-Oriented,R1,South,large,55,"- https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/responsible-adoption-of-ai-tools/   
+- https://security.utexas.edu/ai-tools   
+- https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/limitations/   
+- https://ctl.utexas.edu/generative-ai-teaching-and-learning-policies   ","- https://ctl.utexas.edu/homepage   
+- https://ctl.utexas.edu/teaching-technology/generative-ai-teaching-and-learning-introduction   
+- https://ctl.utexas.edu/generative-ai-teaching-and-learning-tools   
+- https://ctl.utexas.edu/generative-ai-teaching-and-learning-policies   
+- https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ai-detection-software-guidance/ ","- https://ai.utexas.edu/   
+- https://ml.utexas.edu/   
+- https://robotics.utexas.edu/   
+- https://goodsystems.utexas.edu/   ","- https://guides.lib.utexas.edu/AI   
+- https://guides.lib.utexas.edu/AI/teaching  ","- https://guides.lib.utexas.edu/AI/academic_integrity   
+- https://provost.utexas.edu/the-office/academic-affairs/your-syllabus-at-ut-austin/   
+- https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ai-detection-software-guidance/   
+- https://ctl.utexas.edu/generative-ai-teaching-and-learning-policies ",None,"- https://ai.utexas.edu/   
+- https://ai.utexas.edu/industry/collaborative-research   ",,,
+5,6,75.76,University of Notre Dame,U49,41.6993,-86.2389,0.01,0.01,Private Research-Oriented,R1,Midwest,medium,13,"- https://ai.nd.edu/ai-in-action/policies-and-guidelines/   
+- https://honorcode.nd.edu/generative-ai-policy-for-students-august-2023/   
+- https://ai.nd.edu/essentials/students/ 
+- https://ai.nd.edu/about/generative-ai-task-force-gait/ai-recommendations/   
+- https://ai.nd.edu/about/generative-ai-task-force-gait/   
+- https://learning.nd.edu/resource-library/writing-ai-syllabus-policies-a-practical-guide-for-notre-dame-faculty/ ","- https://learning.nd.edu/   
+- https://learning.nd.edu/about/kaneb-center/   
+- https://learning.nd.edu/resource-library/   
+- https://learning.nd.edu/learning-technology/lab-for-ai-in-teaching-and-learning-laitl/ai-academy/   
+- https://learning.nd.edu/learning-technology/lab-for-ai-in-teaching-and-learning-laitl/ai-coaching/   
+- https://learning.nd.edu/consultations-and-programs/kccda/ ","- https://ai.nd.edu/   
+- https://strategicframework.nd.edu/initiatives/data-ai-computing/   ",- https://libguides.library.nd.edu/ai ,"- https://altech.nd.edu/artificial-intelligence/academic-integrity/   
+- https://honorcode.nd.edu/generative-ai-policy-for-students-august-2023/  
+- https://honorcode.nd.edu/official-statement-regarding-generative-ai-may-2023/   
+- https://honorcode.nd.edu/policy-update-ai-editing-tools-fall-2024/  
+- https://learningcontinuity.nd.edu/honor-code-academic-integrity/  ","- https://ai.nd.edu/about/generative-ai-task-force-gait/   
+- https://ai.nd.edu/about/generative-ai-task-force-gait/ai-recommendations/   
+- https://ai.nd.edu/about/ai-innovation-council/   
+- https://strategicframework.nd.edu/initiatives/data-ai-computing/curriculum-task-force/ 
+- https://strategicframework.nd.edu/initiatives/data-ai-computing/ ",None,,,
+6,8,74.24,Baylor University,U35,31.5493,-97.1143,0,0,Private Research-Oriented,R1,South,large,20,"- https://its.web.baylor.edu/ai   
+- https://honorcode.web.baylor.edu/academic-integrity-office/students-and-academic-integrity   
+- https://honorcode.web.baylor.edu/academic-integrity-office/faculty-resources/suggestions-dealing-artificial-intelligence-ai-produced   
+- https://libguides.baylor.edu/students-chatGPT/cheating ","- https://atl.web.baylor.edu/   
+- https://atl.web.baylor.edu/resources/ai-resources ",- https://its.web.baylor.edu/ai ,"- https://libguides.baylor.edu/ai_toolkit_text 
+- https://libguides.baylor.edu/local_ai_workshop 
+- https://libguides.baylor.edu/students-chatGPT ","- https://honorcode.web.baylor.edu/academic-integrity-office/faculty-resources/suggestions-dealing-artificial-intelligence-ai-produced 
+- https://honorcode.web.baylor.edu/academic-integrity-office/students-and-academic-integrity ","- https://provost.web.baylor.edu/ai 
+- https://atl.web.baylor.edu/resources/ai-resources ",- https://ethics.web.baylor.edu/  ,,,
+7,8,74.24,University at Buffalo,U28,42.9999,-78.7851,0,0,Public Research-Oriented,R1,Northeast,large,20,"- https://www.buffalo.edu/ubit/policies/policies-standards-guidelines/ubit-guidance/generative-ai.html 
+- https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html 
+- https://www.buffalo.edu/academic-integrity/instructors/protect/ai-guidance.html ",- https://www.buffalo.edu/catt/ai-resources.html ,"- https://www.buffalo.edu/ai-data-science.html 
+- https://www.buffalo.edu/research/research-expertise/expertise-in-ai.html ","- https://research.lib.buffalo.edu/artificial-intelligence 
+- https://research.lib.buffalo.edu/ai-researchtools ","- https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html 
+- https://www.buffalo.edu/academic-integrity/instructors/protect/ai-guidance.html 
+- https://www.buffalo.edu/academic-integrity/about/violations.html ",- https://www.buffalo.edu/catt/ai-resources/ai-task-force-implementation-report.html ,"- https://www.buffalo.edu/ai-data-science.html   
+- https://www.buffalo.edu/ai-data-science/research.html   ",,,
+8,11,71.21,University of Florida,U5,29.6516,-82.3248,0,0,Public Research-Oriented,R1,South,large,62,"- https://privacy.ufl.edu/laws-and-regulations/ai-governance/ 
+- https://ai.ufl.edu/for-our-students/guidance-for-students/ ","- https://teach.ufl.edu/artificial-intelligence-in-teaching-and-learning/   
+- https://teach.ufl.edu/ai-awards/  
+- https://teach.ufl.edu/events-and-workshops/harnessing-ai-for-teaching-and-learning/","- https://ai.ufl.edu/ 
+- https://ailearning.ai.ufl.edu/ 
+- https://ailearning.ai.ufl.edu/the-ai-center/ ","- https://training.uflib.ufl.edu/libraries-and-ai/   
+- https://guides.uflib.ufl.edu/ai/introduction   
+- https://committees.uflib.ufl.edu/committees/ai-committee/ 
+- https://guides.uflib.ufl.edu/artificialintelligence 
+- https://guides.uflib.ufl.edu/ai 
+- https://guides.uflib.ufl.edu/TDM ","- https://citt.it.ufl.edu/services/learning-innovation--technology/artificial-intelligence/   
+- https://ai.ufl.edu/teaching-with-ai/expanding-the-ai-curriculum/guidance-for-instructors/   
+- https://ai.ufl.edu/for-our-students/guidance-for-students/    
+- https://guides.uflib.ufl.edu/artificialintelligence/transparency 
+- https://policy.ufl.edu/regulation/4-040/ ","- https://committees.uflib.ufl.edu/committees/ai-committee/   
+- https://www.ai.ufl.edu/faculty/course-designation/ 
+- https://ai.ufl.edu/media/aiufledu/resources/UF-AI-BlueSky-Task-Force-Full-Report-April-2025.pdf 
+- https://ai.ufl.edu/about/ ","- https://ai.ufl.edu/ 
+- https://ailearning.ai.ufl.edu/ 
+- https://presidentsearch.ufl.edu/artificial-intelligence-initiative/ 
+- https://it.ufl.edu/ai/ 
+- https://ai.ctsi.ufl.edu/about-us/",,,
+9,11,71.21,University of Michigan at Ann Arbor,U18,42.278,-83.7382,0,0,Public Research-Oriented,R1,Midwest,large,52,"- https://safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/AI-and-UM-Data   
+- https://genai.umich.edu/resources 
+- https://its.umich.edu/about/ai-transparency 
+- https://genai.umich.edu/resources/faculty/course-policies 
+- https://genai.umich.edu/resources/students ","- https://crlt.umich.edu/genai   
+- https://crlt.umich.edu/GenAILC ","- https://aiim.umich.edu/   
+- https://e-hail.umich.edu/   
+- https://midas.umich.edu/research/research-resources/generative-ai-hub/  
+- https://genai.umich.edu/initiatives 
+- https://genai.umich.edu/ ","- https://guides.lib.umich.edu/genai-library-instruction   
+- https://www.lib.umich.edu/about-us/policies/statement-appropriate-use-electronic-resources/ 
+- https://guides.lib.umich.edu/UMMSAI ","- https://academictechnology.umich.edu/instructional-resources/generative-ai/academic-integrity-resources   
+- https://crlt.umich.edu/academic-integrity-genai   
+- https://sites.lsa.umich.edu/learningteachingconsulting/home/teaching-methods/guidelines-for-using-generative-ai/ethical-issues-surrounding-genai-tools/ 
+- https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=11803 ","- https://it.umich.edu/strategy-planning/gaia 
+- https://genai.umich.edu/committee-report ","- https://aiim.umich.edu/   
+- https://ai.engin.umich.edu/   
+- https://midas.umich.edu/research/research-resources/generative-ai-hub/   
+- https://genai.umich.edu/   
+- https://caen.engin.umich.edu/ai/   
+- https://it.umich.edu/community/communities-of-practice/directory/artificial-intelligence   
+- https://micde.umich.edu/   ",,,
+10,13,71.21,Rowan University,U31,39.7043,-74.986,0,0,Public Research-Oriented,R2,Northeast,large,24,- https://confluence.rowan.edu/display/POLICY/Artificial%2BIntelligence%2BPolicy   ,"- https://sites.rowan.edu/academic-affairs/facultycenter/profdevelopment/plc/   
+- https://libguides.rowan.edu/GenAI/faculty   
+- https://libguides.rowan.edu/GenAI ","- https://engineering.rowan.edu/mavrc/   
+- https://engineering.rowan.edu/mavrc/research/   
+- https://research.rowan.edu/explore-our-research/ai-digital-transformation.html ",- https://libguides.rowan.edu/GenAI   ,"- https://sites.rowan.edu/academic-affairs/academic_integrity/   
+- https://sites.rowan.edu/academic-affairs/facultycenter/resources/generative-ai/   
+- https://libguides.rowan.edu/GenAI/students ",None,None,,,
+11,13,71.21,Stony Brook University,U26,40.9122,-73.1226,0,0,Public Research-Oriented,R1,Northeast,large,26,"- https://www.stonybrook.edu/commcms/academic_integrity/generative-ai/index.php?accordion=content-d19e272 
+- https://stonybrook.edu/genai/faqs/index.php ",- https://www.stonybrook.edu/celt/innovative-technology/ai-teaching-resources.php ,"- https://ai.stonybrook.edu/   
+- https://www.stonybrook.edu/genai/  ","- https://guides.library.stonybrook.edu/AI-resources 
+- https://guides.library.stonybrook.edu/c.php?g=1296120 
+- https://guides.library.stonybrook.edu/genai ","- https://www.stonybrook.edu/commcms/academic_integrity/faculty-and-staff/sample-syllabus-statement.php   
+- https://www.stonybrook.edu/commcms/faculty-pathways/pages/syllabus.php   
+- https://www.stonybrook.edu/celt/teaching-resources/aibot.php   
+- https://www.stonybrook.edu/celt/innovative-technology/AI/ai-flagged-eval-process   
+- https://www.stonybrook.edu/commcms/academic_integrity/generative-ai/index.php?accordion=content-d19e272 ","- https://you.stonybrook.edu/libraryai/governance/ 
+- https://www.stonybrook.edu/commcms/provost/about/advisory-committees.php#view-adhoc ","- https://www.stonybrook.edu/genai/index.php 
+- https://www.aldacenter.org/commcms/ceas-undergrad/student_organization/ai_community ",,,
+12,16,69.7,Lewis & Clark College,U70,45.4847,-122.7216,0,0,Teaching-Oriented/Liberal Arts,-,West,small,2,"- https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy 
+- https://library.lclark.edu/ai 
+- https://www.lclark.edu/information_technology/AI_Advisory_Group/index/ ",None,None,- https://library.lclark.edu/ai ,- https://library.lclark.edu/ai ,- https://www.lclark.edu/information_technology/AI_Advisory_Group/index/ ,None,,,
+13,16,69.7,"University of California, Berkeley",U11,37.87196,-122.25909,0,0,Public Research-Oriented,R1,West,large,46,"- https://oercs.berkeley.edu/appropriate-use-generative-ai-tools   
+- https://ai.berkeley.edu/guidance-use-ai   
+- https://ai.berkeley.edu/resources/licensed-generative-ai-tools   
+- https://ai.universityofcalifornia.edu/   
+- https://ai.universityofcalifornia.edu/governance-transparency/ ","- https://teaching.berkeley.edu/teaching-strategies/genai-teaching  
+- https://teaching.berkeley.edu/teaching-strategies/genai-teaching/communicating-course-policies-and-talking-students   
+- https://teaching.berkeley.edu/research-assessment/creating-framework-valued-learning-outcomes-2030 ","- https://ai.berkeley.edu/   
+- https://ai.berkeley.edu/centers-and-programs-focused-ai   
+- https://ai.berkeley.edu/research/   
+- https://ai.berkeley.edu/uc-berkeley-ai-community   
+- https://ai.berkeley.edu/resources/campus-ai-sandbox   
+- https://cltc.berkeley.edu/program/ai-policy-hub/ ","- https://www.lib.berkeley.edu/about/conditions-of-use-for-electronic-resources   
+- https://guides.lib.berkeley.edu/text-mining ",None,"- https://ai.berkeley.edu/ai-governance-and-advisory-bodies   
+- https://oercs.berkeley.edu/ai-governing-advisory-bodies   
+- https://oercs.berkeley.edu/artificial-intelligence 
+- https://evcp.berkeley.edu/initiatives/provosts-advisory-council-artificial-intelligence-pac-ai ","- https://www.berkeley.edu/ai/  
+- https://ai.berkeley.edu/home   
+- https://ai.berkeley.edu/uc-berkeley-ai-community   
+- https://technology.berkeley.edu/AI   
+- https://oercs.berkeley.edu/artificial-intelligence   
+- https://vcresearch.berkeley.edu/research-unit/c3ai-digital-transformation-institute   
+- https://cto.berkeley.edu/ai/uc-berkeley-ai-community ",,,
+14,19,69.7,Texas A&M University,U1,30.6187,-96.3366,0,0,Public Research-Oriented,R1,South,large,80,"- https://www.it.tamu.edu/security-and-policy/it-policy/research-security-compliance/cloud-services-research.html  
+- https://www.it.tamu.edu/ai-services/index.html  
+- https://policies.tamus.edu/15-99-08.pdf 
+- https://policies.tamus.edu/29-01-05.pdf 
+- https://ai.tamu.edu/teach-with-ai/use-guidelines-and-ethics.html 
+- https://www.cyber.tamus.edu/policy/guidelines/ai/ 
+- https://service.tamu.edu/TDClient/36/Portal/KB/ArticleDet?ID=1019 ","- https://cte.tamu.edu/initiatives/gen-ai/index.html 
+- https://genai.tamids.tamu.edu/opportunities/gaire/ ","- https://ai.tamu.edu/index.html 
+- https://tamids.tamu.edu/  
+- https://genai.tamids.tamu.edu/   
+- https://genai.tamids.tamu.edu/about-genai/   
+- https://www.it.tamu.edu/about/strategic-initiatives/ai-framework.html","- https://tamu.libguides.com/c.php?g=1289555 
+- https://tamu.libguides.com/c.php?g=1491584 ","- https://aggiehonor.tamu.edu/rules-procedures/sr20.html 
+- https://ai.tamu.edu/teach-with-ai/use-guidelines-and-ethics.html ",- https://www.tamus.edu/catie/workgroups/emergingtech/ ,"- https://genai.tamids.tamu.edu/   
+- https://www.it.tamu.edu/ai-services/index.html   ",,,
+15,19,69.7,Case Western Reserve University,U50,41.5036,-81.6093,0,0,Private Research-Oriented,R1,Midwest,medium,12,"- https://bulletin.case.edu/undergraduate-academics/academic-integrity/  
+- https://case.edu/provost/initiatives/innovation/ai-education/ai-policies 
+- https://case.edu/provost/example-ai-policies-suitable-course-syllabi 
+- https://case.edu/writing/resources/ai-academic-writing 
+- https://case.edu/ucite/teaching-resources/genai-teaching-and-learning ","- https://case.edu/ucite/teaching-resources/genai-teaching-and-learning  
+- https://case.edu/ucite/AIworkshops 
+- https://case.edu/ucite/sites/default/files/2025-08/Gen%20AI%20Syllabus%20Statement%20Results%20Web%20Version%20v2.pdf 
+- https://case.edu/utech/departments/teaching-learning-technologies/ai-modules ","- https://case.edu/provost/initiatives/innovation/ai-education 
+- https://case.edu/utech/help/knowledge-base/ai-artificial-intelligence ",- https://researchguides.case.edu/artificialintelligence,"- https://bulletin.case.edu/undergraduate-academics/academic-integrity/   
+- https://case.edu/provost/initiatives/innovation/ai-education/ai-policies   
+- https://case.edu/writing/resources/ai-academic-writing   ",- https://case.edu/provost/initiatives/innovation/ai-education/about-ai-education/ai-task-force ,- https://case.edu/utech/help/knowledge-base/ai-artificial-intelligence ,,,
+16,19,69.7,Lafayette College,U79,40.6944,-75.2087,0,0,Teaching-Oriented/Liberal Arts,-,Northeast,small,3,- https://citls.lafayette.edu/generative-ai-in-higher-education/  ,"- https://citls.lafayette.edu/teaching-and-generative-ai/   
+- https://citls.lafayette.edu/2024/10/28/generative-ai-resources/ ",None,None,None,- https://citls.lafayette.edu/generative-ai/,- https://cwp.lafayette.edu/writing-and-generative-artificial-intelligence/ ,,,
+17,22,68.18,"California State University, Long Beach",U14,33.7838,-118.1141,0,0,Public Research-Oriented,R2,West,large,42,"- https://www.csulb.edu/information-technology/ai-technology/ai-guidelines   
+- https://www.csulb.edu/information-technology/ai-technology/student-guidelines-generative-ai   
+- https://www.csulb.edu/information-technology/ai-technology/article/genai-dos-and-donts   
+- https://www.csulb.edu/information-technology/ai-technology/ai-for-teaching-and-learning   
+- https://www.csulb.edu/information-technology/ai-technology/ai-steering-committee   
+- https://genai.calstate.edu/guidelines-safe-and-responsible-use-generative-ai-tools   
+- https://genai.calstate.edu/about/systemwide-generative-ai-committee ",- https://www.csulb.edu/information-technology/ai-technology/ai-for-teaching-and-learning ,"- https://www.csulb.edu/information-technology/ai-technology/ai-guidelines   
+- https://www.csulb.edu/information-technology/ai-technology/academic-ai-subcommittee 
+- https://www.csulb.edu/information-technology/ai-technology ","- https://www.csulb.edu/artificial-intelligence-tools-inside-library-resources 
+- https://csulb.libguides.com/chatbotsandai 
+- https://csulb.libguides.com/onlineEduTools/aiChatBots ","- https://www.csulb.edu/information-technology/ai-technology/student-guidelines-generative-ai   
+- https://www.csulb.edu/information-technology/ai-technology/ai-guidelines   
+- https://www.csulb.edu/academic-senate/policy-academic-integrity-regarding-cheating-and-plagiarism ","- https://www.csulb.edu/information-technology/ai-technology/academic-ai-subcommittee   
+- https://www.csulb.edu/information-technology/ai-technology/ai-guidelines   
+- https://www.csulb.edu/information-technology/ai-technology/ai-for-teaching-and-learning   
+- https://genai.calstate.edu/about/systemwide-generative-ai-committee 
+- https://www.csulb.edu/information-technology/ai-technology/ai-steering-committee ",- https://www.csulb.edu/information-technology/ai-technology   ,,,
+18,22,68.18,University of North Carolina at Chapel Hill,U3,35.9049,-79.0469,0,0,Public Research-Oriented,R1,South,large,32,"- https://ai.unc.edu/teaching-generative-ai-usage-guidance/   
+- https://ai.unc.edu/research-generative-ai-usage-guidance/   
+- https://ai.unc.edu/staff-generative-ai-usage-guidance/   
+- https://provost.unc.edu/discover-ai-at-carolina/ ",- https://ai.unc.edu/teaching/ ,"- https://ai.unc.edu/   
+- https://renci.org/   
+- https://engageai.org/   ","- https://library.unc.edu/ai/ 
+- https://guides.lib.unc.edu/artificial-intelligence "," - https://ai.unc.edu/research-generative-ai-usage-guidance/   
+- https://ai.unc.edu/staff-generative-ai-usage-guidance/   
+- https://honor.unc.edu   
+- https://guides.lib.unc.edu/GenAI/ethics ",- https://chancellor.unc.edu/wp-content/uploads/sites/1276/2024/09/UNC-Chapel-Hill-Generative-AI-Working-Group-Report.pdf ,None,,,
+19,27,68.18,Cornell University,U56,42.4543,-76.4753,-0.02,0.01,Private Research-Oriented,R1,Northeast,medium,16,"- https://teaching.cornell.edu/generative-artificial-intelligence/ai-academic-integrity 
+- https://deanoffaculty.cornell.edu/faculty-and-academic-affairs/academic-integrity/code-of-academic-integrity/
+- https://it.cornell.edu/ai/ai-guidelines 
+- https://teaching.cornell.edu/generative-artificial-intelligence/ai-attribution-guidelines ",- https://teaching.cornell.edu/generative-artificial-intelligence ,"- https://ai.cornell.edu/   
+- https://it.cornell.edu/ai ",- https://guides.library.cornell.edu/citations/AI ,"- https://teaching.cornell.edu/generative-artificial-intelligence/ai-academic-integrity 
+- https://deanoffaculty.cornell.edu/faculty-and-academic-affairs/academic-integrity/template-letters-for-ai-related-communications/ 
+- https://deanoffaculty.cornell.edu/faculty-and-academic-affairs/academic-integrity/talking-to-students-about-ai/ ",- https://it.cornell.edu/ai ,None,,,
+20,27,68.18,Brandeis University,U58,42.3653,-71.2629,0,0,Private Research-Oriented,R1,Northeast,small,5,"- https://www.brandeis.edu/ai-task-force/policies/acceptable-use-policy.html   
+- https://www.brandeis.edu/ai-steering-council/policies/index.html   
+- https://www.brandeis.edu/student-rights-community-standards/rights-responsibilities/current/section-4.html   
+- https://www.brandeis.edu/student-rights-community-standards/academic-integrity/index.html  ","- https://www.brandeis.edu/teaching/online-guides/chatgpt-ai/ai-framework-brandeis-students.html 
+- https://www.brandeis.edu/teaching/online-guides/chatgpt-ai/index.html 
+- https://www.brandeis.edu/student-rights-community-standards/academic-integrity/faculty/navigating-artificial-intelligence.html ",- https://www.brandeis.edu/ai-steering-council/index.html ,- https://guides.library.brandeis.edu/citations ,"- https://www.brandeis.edu/student-rights-community-standards/academic-integrity/index.html 
+- https://www.brandeis.edu/student-rights-community-standards/rights-responsibilities/current/section-4.html 
+- https://www.brandeis.edu/student-rights-community-standards/academic-integrity/faculty/navigating-artificial-intelligence.html ","- https://www.brandeis.edu/ai-steering-council/index.html 
+- https://www.brandeis.edu/ai-steering-council/ai-steering-council/index.html 
+- https://www.brandeis.edu/ai-steering-council/ai-literacy/ethical-considerations.html ","- https://www.brandeis.edu/ai-task-force/ai-literacy/what-is-ai.html 
+- https://www.brandeis.edu/ai-task-force/policies/acceptable-use-policy.html 
+- https://www.brandeis.edu/its/services/ai-tools/index.html ",,,
+21,27,68.18,Southern Methodist University,U36,32.8411,-96.7843,0,0,Private Research-Oriented,R1,South,medium,13,"- https://www.smu.edu/oit/ai 
+- https://www.smu.edu/oit/ai/policy 
+- https://www.smu.edu/oit/academictech/instructional-guidelines/ai-guide  
+- https://www.smu.edu/oit/ai/faculty-guide   
+- https://www.smu.edu/libraries/about/er-guidelines 
+- https://www.smu.edu/provost/cte/resources/generative-ai-and-chat-gpt ",- https://www.smu.edu/provost/cte/resources/generative-ai-and-chat-gpt ,- https://www.smu.edu/oit/ai,"- https://guides.smu.edu/ai 
+- https://guides.smu.edu/c.php?g=1358069&p=10027974 
+- https://guides.smu.edu/aiandinfoliteracy ","- https://www.smu.edu/oit/ai/student-guide 
+- https://www.smu.edu/oit/ai ",None ,"- https://www.smu.edu/oit/ai/ai-training   
+- https://www.smu.edu/oit/training/ai-training/copilot/ai-basics   ",,,
+22,27,68.18,Chapman University,U47,33.7832,-117.8512,0,0,Private Research-Oriented,R2,West,medium,10,"- https://www.chapman.edu/campus-services/information-systems/policies-and-procedures/guidelines-relating-to-data-privacy-and-security-when-using-generative-artificial-intelligence-tools.aspx   
+- https://www.chapman.edu/ai/guidelines-for-the-use-of-ai.aspx   
+- https://www.chapman.edu/ai/chapman-considerations-for-syllabus-policy-on-the-use-of-ai-generative-tools.aspx ",- https://www.chapman.edu/ai/artificial-intelligence-in-the-classroom.aspx ,- https://www.chapman.edu/ai/index.aspx ,- https://libguides.chapman.edu/AI ,"- https://www.chapman.edu/ai/chapman-considerations-for-syllabus-policy-on-the-use-of-ai-generative-tools.aspx 
+- https://www.chapman.edu/ai/artificial-intelligence-in-the-classroom.aspx 
+- https://www.chapman.edu/academics/academic-integrity/_files/information-for-students-2025.pdf ",None,"- https://www.chapman.edu/ai/index.aspx   
+- https://www.chapman.edu/campus-services/information-systems/research-technology-support/ai/index.aspx   
+- https://www.chapman.edu/campus-services/information-systems/research-technology-support/pantherai/index.aspx   ",,,
+23,27,68.18,Howard University,U34,38.9217,-77.0193,0,0,Private Research-Oriented,R1,South,medium,12,"- https://provost.howard.edu/initial-howard-university-guidelines-use-generative-ai-tools   
+- https://howard.edu/ai ","- https://provost.howard.edu/cetla/AI   
+- https://provost.howard.edu/cetla/generativeAI ","- https://howard.edu/ai   
+- https://provost.howard.edu/CADSA   
+- https://provost.howard.edu/datascience  
+- https://rita.howard.edu/ ",- https://howardcollege.libguides.com/AIToolbox ,"- https://provost.howard.edu/initial-howard-university-guidelines-use-generative-ai-tools 
+- https://provost.howard.edu/cetla/generativeAI 
+- https://provost.howard.edu/cetla/AI   ",- https://howard.edu/ai/advisory-council ," - https://provost.howard.edu/cetla/generativeAI   
+- https://ai4pc.howard.edu/   
+- https://rcmi.howard.edu/vadsti24/   ",,,
+24,31,66.67,University of South Florida,U4,28.0583,-82.4134,0,0,Public Research-Oriented,R1,South,large,50,"- https://genai.usf.edu/at-usf/university-guidance   
+- https://genai.usf.edu/at-usf/course-guidance   
+- https://www.usf.edu/provost/faculty-success/teaching-learning/syllabus-course-guidance.aspx  
+- https://lib.usf.edu/library-administration/ai-use-principles/","- https://www.usf.edu/citl/index.aspx 
+- https://www.usf.edu/provost/faculty-success/teaching-learning/guidance-generative-ai.aspx 
+- https://www.usf.edu/innovative-education/digital-learning/generative-ai/","- https://aix.eng.usf.edu/  
+- https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/   
+- https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/about/ ","- https://guides.lib.usf.edu/AI   
+- https://guides.lib.usf.edu/AI/PRIMOAI   
+- https://guides.lib.usf.edu/AI/atthelibraries   
+- https://guides.lib.usf.edu/advancedcomputing 
+- https://lib.usf.edu/library-administration/ai-use-principles/ ","- https://genai.usf.edu/at-usf/course-guidance  
+- https://www.usf.edu/provost/faculty-success/teaching-learning/guidance-generative-ai.aspx 
+- https://genai.usf.edu/at-usf/university-guidance ",- https://genai.usf.edu/at-usf/genai-task-force ,"- https://genai.usf.edu/  
+- https://www.usf.edu/innovative-education/digital-learning/generative-ai/   
+- https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/  
+- https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/about/   
+- https://www.usf.edu/ai-cybersecurity-computing/   ",,,
+25,31,66.67,Syracuse University,U59,43.0379,-76.1358,0,0,Private Research-Oriented,R1,Northeast,large,22,"- https://policies.syr.edu/policies/academic-rules-student-responsibilities-and-services/academic-integrity-policy/ 
+- https://its.syr.edu/aiforstudents/ 
+- https://its.syr.edu/artificialintelligence/ 
+- https://class.syr.edu/academic-integrity/syllabus-recommendations/ 
+- https://academicaffairs.syracuse.edu/important-syllabus-reminders/ ","- https://teachingexcellence.syr.edu/resources/artificial-intelligence/teaching-and-learning-in-the-age-of-artificial-intelligence/   
+- https://teachingexcellence.syr.edu/resources/generative-ai
+- https://teachingexcellence.syr.edu/resources/generative-ai-and-chatgpt/ ",- https://its.syr.edu/artificialintelligence/ ,- https://researchguides.library.syr.edu/AI ,"- https://policies.syr.edu/policies/academic-rules-student-responsibilities-and-services/academic-integrity-policy/ 
+- https://class.syr.edu/academic-integrity/syllabus-recommendations/ 
+- https://class.syr.edu/academic-integrity/ ",None ,None,,,
+26,34,65.15,University of Wyoming,U10,41.3114,-105.5911,0,0,Public Research-Oriented,R1,West,medium,12,- https://www.uwyo.edu/regs-policies/_files/docs/regulations-2023/uwreg2-114approved7-14-23.pdf ,- https://uwyo.libguides.com/aisupport/faculty ,"- https://www.uwyo.edu/president/initiatives/ai4wy/index.html   
+- https://www.uwyo.edu/president/initiatives/ai4wy/about-us.html   
+- https://www.uwyo.edu/president/initiatives/ai4wy/opportunities.html   
+- https://www.uwyo.edu/soc/engagement/community-industry/wyo-ai.html   ",- https://uwyo.libguides.com/aisupport ,- https://www.uwyo.edu/regs-policies/_files/docs/regulations-2023/uwreg2-114approved7-14-23.pdf ,- https://www.uwyo.edu/acadaffairs/resources/ai-committee.html ,"- https://www.uwyo.edu/president/initiatives/ai4wy/index.html   
+- https://www.uwyo.edu/president/initiatives/ai4wy/about-us.html   
+- https://www.uwyo.edu/president/initiatives/ai4wy/opportunities.html     ",,,
+27,34,65.15,The Ohio State University,U20,40.001,-83.0198,0,0,Public Research-Oriented,R1,Midwest,large,67,"- https://teaching.resources.osu.edu/teaching-topics/ai-considerations-teaching-learning   
+- https://ai.osu.edu/resources-buckeyes/approved-ai-tools   
+- https://teaching.resources.osu.edu/teaching-topics/ai-teaching-strategies-crafting   
+- https://ugeducation.osu.edu/academics/standard-syllabus/standard-syllabus-statements 
+- https://cdli.ehe.osu.edu/ai-in-ehe/updates-trends/osu-policy-guidance/
+- https://ai.osu.edu/resources-buckeyes/responsible-use ","- https://teaching.resources.osu.edu/teaching-topics/ai-considerations-teaching-learning 
+- https://ai.osu.edu/education-and-fluency/teach-ai 
+- https://cdli.ehe.osu.edu/ai-in-ehe/ 
+- https://drakeinstitute.osu.edu/institute-articles/artificial-intelligence-and-instruction 
+- https://oaa.osu.edu/academic-excellence/ai-ohio-state/ai-fluency/faculty-support-and-learning-outcomes ","- https://ai.osu.edu/   
+- https://ai.osu.edu/research-and-innovation/aix-hub-ai-innovation-public-good 
+- https://oaa.osu.edu/academic-excellence/ai-ohio-state 
+- https://cdli.ehe.osu.edu/ai-in-ehe/ai-learning-hub/ ","- https://guides.osu.edu/ai  
+- https://guides.osu.edu/ai/ethics ","- https://oaa.osu.edu/resources/academic-integrity/student-misconduct   
+- https://oaa.osu.edu/resources/policies-and-procedures/academic-integrity/faculty-obligations ",None,- https://aiedge.osu.edu/   ,,,
+28,34,65.15,University of Southern California,U44,34.0224,-118.2851,0,0,Private Research-Oriented,R1,West,large,46,"- https://academicintegrity.usc.edu/faculty-resources/addressing-generative-ai/   
+- https://itservices.usc.edu/ai-faqs/   
+- https://careers.usc.edu/ai-guidelines/   
+- https://libguides.usc.edu/generative-AI/scholarship-research 
+- https://libguides.usc.edu/generative-AI/usc-guidelines ","- https://cet.usc.edu/ai-teaching-at-usc-tools-guidance-and-faculty-examples/   
+- https://cet.usc.edu/ai-in-education-a-resource-hub/   
+- https://cet.usc.edu/ai-in-education-faculty-institutes/   
+- https://cet.usc.edu/cet-spring-faculty-showcase-ai-in-teaching/   
+- https://cet.usc.edu/resource_topic/ai/  
+- https://cet.usc.edu/teaching-resources/teaching-with-ai/ 
+- https://academicprograms.usc.edu/services/excellence-in-teaching/ ","- https://www.usc.edu/ai/  
+- https://ai.usc.edu/ai-at-usc/   
+- https://www.cais.usc.edu/   
+- https://dayofscupport.usc.edu/p/cais/c/   
+- https://www.uscaims.org/about   
+- https://aai.usc.edu/   
+- https://sac.usc.edu/credif/ 
+- https://sites.usc.edu/ai-knowledge-hub/ ","- https://libraries.usc.edu/ai-literacy   
+- https://libraries.usc.edu/article/your-ai-questions-answered-usc-libraries   
+- https://libguides.usc.edu/AIskeptic ","- https://academicintegrity.usc.edu/faculty-resources/addressing-generative-ai/   
+- https://libguides.usc.edu/generative-AI/scholarship-research 
+- https://sites.usc.edu/ai-knowledge-hub/ 
+- https://academicintegrity.usc.edu/generative-ai-and-chatgpt-edu/ ",- https://www.president.usc.edu/presidential-initiatives/presidents-ai-strategy-committee/ ,"- https://www.usc.edu/ai/  
+- https://ai.usc.edu/ai-at-usc/   
+- https://aai.usc.edu/   
+- https://www.cais.usc.edu/  
+- https://caisplusplus.usc.edu/ ",,,
+29,37,63.64,Mercer University,U39,32.3098,-84.9644,0,0,Private Research-Oriented,R2,South,medium,9,"- https://provost.mercer.edu/office-of-the-provost/honor-system/   
+- https://ctl.mercer.edu/ai-resources/sample-syllabus-guidance-for-ai-use/  
+- https://provost.mercer.edu/resources/ai-at-mercer/  
+- https://mercer.libguides.com/ArtIntel ","- https://ctl.mercer.edu/ai-resources/sample-syllabus-guidance-for-ai-use/   
+- https://ctl.mercer.edu/resources/   ",None,- https://mercer.libguides.com/AI ,"- https://provost.mercer.edu/office-of-the-provost/honor-system/   
+- https://provost.mercer.edu/curriculum-information/syllabus-statements/   
+- https://ctl.mercer.edu/ai-resources/sample-syllabus-guidance-for-ai-use/   
+- https://provost.mercer.edu/resources/ai-at-mercer/ ",None,"- https://provost.mercer.edu/resources/ai-at-mercer/ 
+- https://ctl.mercer.edu/ai-resources/sample-syllabus-guidance-for-ai-use/ ",,,
+30,40,63.64,DePaul University,U54,41.9217,-87.6513,0,0,Private Research-Oriented,R2,Midwest,large,21,"- https://offices.depaul.edu/information-services/about/generative-ai/Pages/default.aspx   
+- https://offices.depaul.edu/academic-affairs/faculty-resources/academic-integrity/Pages/violation.aspx 
+- https://resources.depaul.edu/teaching-commons/teaching-guides/technology/artificial-intelligence/Pages/ai-detectors.aspx   
+- https://library.depaul.edu/about/about-the-library/Pages/generative-ai-values.aspx ","- https://resources.depaul.edu/teaching-commons/programs/Pages/ai-program.aspx 
+- https://resources.depaul.edu/teaching-commons/teaching-guides/technology/artificial-intelligence/Pages/teachingrecommendations.aspx ",- https://blogs.depaul.edu/ai-institute/ ,- https://library.depaul.edu/about/about-the-library/Pages/generative-ai-values.aspx ,"- https://offices.depaul.edu/academic-affairs/faculty-resources/academic-integrity/Pages/violation.aspx   
+- https://resources.depaul.edu/teaching-commons/teaching-guides/technology/artificial-intelligence/Pages/teachingrecommendations.aspx ",- https://resources.depaul.edu/teaching-commons/teaching-guides/technology/artificial-intelligence/Pages/default.aspx ,"- https://offices.depaul.edu/information-services/about/generative-ai/Pages/default.aspx   
+- https://offices.depaul.edu/information-services/about/generative-ai/Pages/ai-tools-at-depaul.aspx ",,,
+31,40,63.64,Arizona State University,U13,33.4242,-111.9281,0,0,Public Research-Oriented,R1,West,large,78,"- https://ai.asu.edu/ai-tools   
+- https://ai.asu.edu/policy-and-resources ","- https://provost.asu.edu/generative-ai 
+- https://ai.asu.edu/ai-tools/learning-design-suite ","- https://ai.asu.edu/   
+- https://smartchallenges.asu.edu/ ",- https://libguides.asu.edu/generativeai ,None,"- https://ai.asu.edu/ai-tools/asu-ai-advisory-committee   
+- https://ai.asu.edu/faculty-ethics-committee-ai-technology ","- https://ai.asu.edu/   
+- https://lx.asu.edu/tech-hub-ai    ",,,
+32,40,63.64,Northern Illinois University,U24,41.9951,-88.2426,0,0,Public Research-Oriented,R2,Midwest,medium,12,"- https://www.niu.edu/provost/about/task-force.shtml   
+- https://www.niu.edu/citl/online/standards-and-principles/checklists/course-technology.shtml   
+- https://www.niu.edu/blackboard/content/ai-design-assistant.shtml   
+- https://www.niu.edu/citl/resources/toolkits/artificial-intelligence/chatgpt-and-education.shtml   
+- https://www.niu.edu/citl/resources/guides/class-policies-for-ai-tools.shtml ","- https://www.niu.edu/citl/programs/ai-network/index.shtml   
+- https://www.niu.edu/citl/services/faculty-learning-communities.shtml   
+- https://www.niu.edu/citl/programs/recordings/welcome-to-artificial-intelligence.shtml   
+- https://www.niu.edu/citl/programs/recordings/ai-in-education.shtml   
+- https://www.niu.edu/citl/resources/toolkits/artificial-intelligence/index.shtml   
+- https://www.niu.edu/citl/programs/recordings/ai-looking-ahead.shtml 
+- https://www.niu.edu/citl/resources/toolkits/artificial-intelligence/ai-tools.shtml 
+- https://www.niu.edu/citl/resources/guides/class-policies-for-ai-tools.shtml ","- https://www.niu.edu/citl/programs/ai-network/index.shtml   
+- https://www.niu.edu/provost/about/task-force.shtml ","- https://libguides.niu.edu/AI_library_service   
+- https://libguides.niu.edu/AI_library_service/GTP-LLMS   
+- https://libguides.niu.edu/AI_library_service/ethics_bias   
+- https://libguides.niu.edu/AI_library_service/citation_copyright   
+- https://libguides.niu.edu/c.php?g=1365265&p=10895504 ",- https://www.niu.edu/citl/resources/guides/class-policies-for-ai-tools.shtml,"- https://www.niu.edu/provost/about/task-force.shtml 
+- https://www.niu.edu/citl/programs/ai-network/index.shtml ","- https://www.niu.edu/citl/programs/ai-network/index.shtml 
+- https://www.niu.edu/academicaffairs/undergraduate-affairs/academic-support/mission-ai-chatbot.shtml 
+- https://www.niu.edu/blackboard/content/ai-design-assistant.shtml 
+- https://www.niu.edu/citl/programs/recordings/welcome-to-artificial-intelligence.shtml 
+- https://www.niu.edu/citl/programs/recordings/ai-looking-ahead.shtml ",,,
+33,40,63.64,University of South Alabama,U8,30.6954,-88.0399,0,0,Public Research-Oriented,R2,South,medium,16,"- https://www.southalabama.edu/departments/compliance/policylibrary/policy.html?doc=5D8D5472-5518-47A9-88C6-6344FD772CD2 
+- https://libguides.southalabama.edu/c.php?g=1395847&p=10876813 ","- https://www.southalabama.edu/departments/ilc/minicourses.html  
+- https://jagworks.southalabama.edu/southalabama-aialive/   
+- https://libguides.southalabama.edu/ai_for_educators ","- https://sites.google.com/southalabama.edu/iaim/   
+- https://www.southalabama.edu/departments/research/research-centers/ ",- https://jagworks.southalabama.edu/southalabama-aialive/ ,- https://els-bib.southalabama.edu/departments/ilc/minicourses.html ,None,None,,,
+34,44,63.64,Fordham University,U60,40.862,-73.8857,0,0,Private Research-Oriented,R2,Northeast,medium,17,"- https://www.fordham.edu/information-technology/it-services/academic-technology/artificial-intelligence/fordham-policy-on-ai/ 
+- https://www.fordham.edu/resources/policies/academic-integrity-policy/standards-of-academic-integrity/ 
+- https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academics/teaching-and-learning/ 
+- https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academic-initiatives/ai-vision-committee/ 
+- https://www.fordham.edu/information-technology/it-services/academic-technology/artificial-intelligence/tools/ ",- https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academics/teaching-and-learning/ ,"- https://www.fordham.edu/ai-for-the-greater-good/ 
+- https://www.fordham.edu/information-technology/it-services/academic-technology/artificial-intelligence/ ",- https://fordham.libguides.com/JSTOR-Research-Tool-Guide ,- https://bulletin.fordham.edu/undergraduate/academic-policies-procedures/academic-integrity-policy/ ,"- https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academic-initiatives/ai-vision-committee/
+- https://www.fordham.edu/information-technology/it-services/academic-technology/artificial-intelligence/about-faculty-ai-group/ ","- https://www.fordham.edu/resources/policies/academic-integrity-policy/standards-of-academic-integrity/ 
+- https://www.fordham.edu/ai-for-the-greater-good/ ",,,
+35,44,63.64,Florida Institute of Technology,U41,28.064,-80.6219,0,0,Private Research-Oriented,R2,South,small,4,- https://www.fit.edu/policies/student-focused-policies/standards-and-policies/responsible-use-of-generative-ai-in-academic-work/ ,None,- https://www.fit.edu/provost/councils-and-committees/advisory-committee-for-ai-in-education/ ,None,"- https://www.fit.edu/policies/student-focused-policies/standards-and-policies/responsible-use-of-generative-ai-in-academic-work/   
+- https://www.fit.edu/policies/academic/policies/student-academic-honesty-policy/   
+- https://www.fit.edu/student-affairs/student-conduct/student-handbook/ ",None,"- https://www.fit.edu/provost/councils-and-committees/advisory-committee-for-ai-in-education/   
+- https://research.fit.edu/craft/   
+- https://research.fit.edu/autonomy-lab/ ",,,
+36,46,62.12,Illinois State University,U22,40.5128,-88.9958,0,0,Public Research-Oriented,R2,Midwest,large,22,None,"- https://artificialintelligence.illinoisstate.edu/ 
+- https://prodev.illinoisstate.edu/instructional-resources/pedagogy/ai/ 
+- https://adaptiveedge.illinoisstate.edu/ 
+- https://adaptiveedge.illinoisstate.edu/communities-of-practice/ 
+- https://prodev.illinoisstate.edu/instructional-resources/pedagogy/ai/tilt/ ","- https://adaptiveedge.illinoisstate.edu/   
+- https://artificialintelligence.illinoisstate.edu/ 
+- https://adaptiveedge.illinoisstate.edu/communities-of-practice/ ",- https://guides.library.illinoisstate.edu/scholarlycommunication/ai ,- https://prodev.illinoisstate.edu/instructional-resources/pedagogy/ai/classroom/ ,- https://artificialintelligence.illinoisstate.edu/about/ ,"- https://artificialintelligence.illinoisstate.edu/   
+- https://artificialintelligence.illinoisstate.edu/using-ai-at-isu/   
+- https://adaptiveedge.illinoisstate.edu/   
+- https://it.illinoisstate.edu/academics/information-systems ",,,
+37,49,60.61,Pepperdine University,U46,34.033,-118.6829,0,0,Private Research-Oriented,R2,West,medium,10,"- https://community.pepperdine.edu/it/ai/default.htm   
+- https://community.pepperdine.edu/it/ai/oversight-committee.htm   
+- https://community.pepperdine.edu/it/ai/tiered-trust.htm  
+- https://community.pepperdine.edu/it/security/policies/usagepolicy.htm   
+- https://www.pepperdine.edu/about/administration/provost/content/ai-use-syllabus-statements.pdf 
+- https://infoguides.pepperdine.edu/AIGSEP ",- https://community.pepperdine.edu/techlearn/ ,- https://community.pepperdine.edu/it/ai/default.htm ,"- https://infoguides.pepperdine.edu/artificialIntelligence_home 
+- https://infoguides.pepperdine.edu/AI ","- https://community.pepperdine.edu/it/ai/default.htm   
+- https://www.pepperdine.edu/about/administration/provost/content/ai-use-syllabus-statements.pdf ","- https://community.pepperdine.edu/it/ai/oversight-committee.htm 
+- https://community.pepperdine.edu/it/ai/position-statement.htm ","- https://community.pepperdine.edu/it/ai/default.htm   
+- https://community.pepperdine.edu/it/ai/oversight-committee.htm   
+- https://community.pepperdine.edu/it/tools/gsuite/gemini.htm   
+- https://community.pepperdine.edu/it/tools/zoom/aicompanion.htm   
+- https://infoguides.pepperdine.edu/AI ",,,
+38,49,60.61,University of Chicago,U48,41.7886,-87.5987,0,0,Private Research-Oriented,R1,Midwest,large,20,"- https://genai.uchicago.edu   
+- https://academictech.uchicago.edu/generative-ai/   
+- https://guides.lib.uchicago.edu/GenAI   
+- https://genai.uchicago.edu/en/about/generative-ai-guidance 
+- https://genai.uchicago.edu/generative-ai-tools/approved-restricted-and-unauthorized-tools 
+- https://genai.uchicago.edu/en/resources/students 
+- https://guides.lib.uchicago.edu/c.php?g=1371911&p=10145580 
+- https://genai.uchicago.edu/en/resources/students/generative-ai-student-guide ","- https://teaching.uchicago.edu/resources/programming-and-resources-generative-ai   
+- https://teaching.uchicago.edu/programs/teaching-generative-ai-landscape 
+- https://teaching.uchicago.edu/sites/default/files/2023-09/CCTL_AI%20Syllabus%20Statements.pdf ",- https://genai.uchicago.edu/ ,"- https://guides.lib.uchicago.edu/GenAI   
+- https://knowledge.uchicago.edu/record/16386 
+- https://knowledge.uchicago.edu/record/16387 ","- https://guides.lib.uchicago.edu/c.php?g=1371911&p=10145580 
+- https://genai.uchicago.edu/en/resources/students ","- https://provost.uchicago.edu/reports/report-advancing-computing-and-ai-committee 
+- https://provost.uchicago.edu/reports ","- https://science.uchicago.edu/data-science-ai  
+- https://datascience.uchicago.edu/   
+- https://datascience.uchicago.edu/about/about-dsi/   
+- https://datascience.uchicago.edu/research/ai-science/   
+- https://codas.uchicago.edu/ ",,,
+39,49,60.61,Montclair State University,U33,40.8584,-74.1981,0,0,Public Research-Oriented,R2,Northeast,medium,18,"- https://www.montclair.edu/faculty-excellence/ofe-teaching-principles/clear-course-design/practical-responses-to-chat-gpt/9569-2/ 
+- https://www.montclair.edu/policies/all-policies/academic-integrity/ 
+- https://www.montclair.edu/policies/all-policies/code-of-conduct/ ","- https://www.montclair.edu/itds/instructional-tech/ai/ 
+- https://www.montclair.edu/faculty-excellence/ofe-teaching-principles/clear-course-design/practical-responses-to-chat-gpt/ 
+- https://www.montclair.edu/faculty-excellence/category/generative-ai/ ","- https://www.montclairai.com/home 
+- https://www.montclair.edu/itds/digital-pedagogy/pedagogical-strategies-and-practices/ai/ ",- https://montclair.libguides.com/ai ,"- https://www.montclair.edu/policies/all-policies/academic-integrity/   
+- https://www.montclair.edu/itds/digital-pedagogy/pedagogical-strategies-and-practices/ai/ ",- https://www.montclair.edu/provost/blue-ribbon-task-force/ ,- https://www.montclair.edu/itds/instructional-tech/ai/image-generation/ ,,,
+40,49,60.61,Binghamton University,U29,42.097,-75.2077,0,0,Public Research-Oriented,R1,Northeast,medium,19,"- https://www.binghamton.edu/operations/policies/policy-312.html 
+- https://www.binghamton.edu/clt/resources/chat-gpt-info.html 
+- https://libraryguides.binghamton.edu/ai 
+- https://binghamton.teamdynamix.com/TDClient/45/Portal/KB/ArticleDet?ID=17631 ","- https://www.binghamton.edu/clt/resources/chat-gpt-info.html 
+- https://www.binghamton.edu/clt/ ",None,- https://libraryguides.binghamton.edu/ai ,"- https://libraryguides.binghamton.edu/ai/whattoconsider  
+- https://www.binghamton.edu/operations/policies/policy-312.html ",None,None,,,
+41,49,60.61,Lake Forest College,U75,42.249,-87.8456,0,0,Teaching-Oriented/Liberal Arts,-,Midwest,small,2,"- https://www.lakeforest.edu/its/policies
+- https://www.lakeforest.edu/academic-resources/writing-center/ai-use-and-resources/ai-resources-for-students",None,None,None,None,None,"- https://www.lakeforest.edu/academics/majors-and-minors/artificial-intelligence   
+- https://www.lakeforest.edu/academics/human-grant",,,
+42,53,57.58,Iowa State University,U21,42.026,-93.6463,0,0,Public Research-Oriented,R1,Midwest,large,31,- https://ai.iastate.edu/policies-and-compliance ,"- https://ai.iastate.edu/teaching-and-instruction   
+- https://celt.iastate.edu/ai-in-teaching/ ","- https://trac-ai.iastate.edu/   
+- https://ai.iastate.edu/ ","- https://instr.iastate.libguides.com/everydayai 
+- https://instr.iastate.libguides.com/c.php?g=1069063&p=9953950 ","- https://studentconduct.dso.iastate.edu/know-code-resources/students   
+- https://iastate.pressbooks.pub/academicintegrity/chapter/unauthorized-assistance/ 
+- https://studentconduct.dso.iastate.edu/know-code-resources/facultystaff 
+- https://studentconduct.dso.iastate.edu/know-code-resources/students ","- https://www.it.iastate.edu/projects/generative-artificial-intelligence   
+- https://ai.iastate.edu/ ",- https://trac-ai.iastate.edu/  ,,,
+43,56,57.58,Carleton College,U73,44.4572,-93.1632,0,0,Teaching-Oriented/Liberal Arts,-,Midwest,small,2,"- https://www.carleton.edu/ai/policies/ 
+- https://www.carleton.edu/its/services/generative-ai/",None,- https://www.carleton.edu/ai/,- https://gouldguides.carleton.edu/c.php?g=146832&p=10719071,- https://www.carleton.edu/writing/plagiarism/plagiarism-and-ai/,- https://www.carleton.edu/ai/ai-coordinating-team/,- https://www.carleton.edu/writing/resources-for-faculty/working-with-ai/,,,
+44,56,57.58,University of Washington-Seattle,U12,47.6553,-122.3035,0,0,Public Research-Oriented,R1,West,large,52,"- https://it.uw.edu/guides/security-authentication/artificial-intelligence-guidelines/   
+- https://ois.uw.edu/guides-by-topic/security-authentication/artificial-intelligence-guidelines    
+- https://finance.uw.edu/recmgt/UW-records-ai-guidance ","- https://teaching.washington.edu/learn/#ai-teaching-using-ai-to-advance-learning   
+- https://teaching.washington.edu/learn/ai-to-advance-learning/ ","- https://xpai.engr.uw.edu/   
+- https://globeai.uw.edu/    
+- https://www.sciencehub.uw.edu/   
+- https://it.uw.edu/guides/artificial-intelligence/ ",None,- https://www.washington.edu/cssc/for-students/academic-misconduct/ ,- https://it.uw.edu/initiatives/artificial-intelligence-ai/ ,"- https://www.sciencehub.uw.edu/   
+- https://xpai.engr.uw.edu/   
+- https://raise.uw.edu/  
+- https://raise.uw.edu/ai-for-all/    
+- https://it.uw.edu/uw-it/uw-it-strategy/technology-strategy-roadmap/ai-strategy/   ",,,
+45,56,57.58,San Jos√© State University,U15,37.3352,-121.8811,0,0,Public Research-Oriented,R2,West,large,38,"- https://www.sjsu.edu/it/security/cybersecurity/ai-best-practices.php   
+- https://library.sjsu.edu/chatgpt 
+- https://library.sjsu.edu/plagiarism/ai-and-plagiarism ","- https://www.sjsu.edu/cfeti/teaching-resources/   
+- https://www.sjsu.edu/cfeti/teaching-resources/ai-pedagogies/ai-faculty-fellow-events.php ","- https://sjsu.foleon.com/ai/sjsu-ai/ 
+- https://www.sjsu.edu/it/campus-initiatives/ai-resources/index.php ","- https://library.sjsu.edu/librarychatbot   
+- https://library.sjsu.edu/kingbot   
+- https://www.sjlibrary.org/policy/chatbot-policy   
+- https://library.sjsu.edu/chatgpt   
+- https://library.sjsu.edu/OneSearch-research-assistant   
+- https://library.sjsu.edu/librarychatbot ","- https://library.sjsu.edu/chatgpt/mystudentcheated   
+- https://library.sjsu.edu/chatgpt 
+- https://www.sjsu.edu/studentconduct/conduct-processes/academic-integrity.php ",- https://www.sjsu.edu/president/priorities-and-initiatives/artificial-intelligence/index.php ,"- https://www.sjsu.edu/it/campus-initiatives/ai-resources/index.php 
+- https://www.sjsu.edu/it/campus-initiatives/index.php ",,,
+46,61,56.06,Southern University and A & M College,U7,30.5164,-91.1867,0,0,Public Research-Oriented,R2,South,small,8,None,None,None,- https://subr.libguides.com/AI ,None,None,None,,,
+47,61,56.06,Colby College,U76,44.5728,-69.6136,0,0,Teaching-Oriented/Liberal Arts,-,Northeast,small,2,"- https://life.colby.edu/your-safety/community-values-conflict-resolution-and-restorative-practice/student-handbook/   
+- https://docs.google.com/document/d/1YEzjDQjBBcs0mVumcDlALn6I248ZzyAnmXaRQajy3IE/edit?tab=t.0#heading=h.1fjrc1sqdrqn","- https://www.colby.edu/center-for-teaching-and-learning/resources/
+- https://sites.google.com/colby.edu/explore-ai/teach-with-ai
+- https://sites.google.com/colby.edu/explore-ai/ 
+- https://docs.google.com/document/d/1Ti2TXYoe4PbjjYWwgoJvZRU5rK_7HSl6d8iK-3-2TMg/edit?tab=t.0","- https://sites.google.com/colby.edu/explore-ai
+- https://davisinstituteai.colby.edu/",- https://libguides.colby.edu/ai,- https://life.colby.edu/your-safety/community-values-conflict-resolution-and-restorative-practice/student-handbook/,None,- https://www.colby.edu/people/offices-directory/farnham-writers-center/fwc-ai-guidelines/ ,,,
+48,61,56.06,Skidmore College,U78,43.045,-73.786,0,0,Teaching-Oriented/Liberal Arts,-,Northeast,small,3,"- https://leds.domains.skidmore.edu/ethical-considerations-for-ai/ 
+- https://leds.domains.skidmore.edu/generative-ai-tools-and-their-uses-for-teaching-learning/",- https://www.skidmore.edu/cltl/pedagogical-resources/gen-ai-pedagogical-resources.php,None,None,- https://leds.domains.skidmore.edu/sample-ai-syllabi-statements/,None,- https://ai.domains.skidmore.edu/   ,,,
+49,61,56.06,Saint Louis University,U51,38.636,-90.2585,0,0,Private Research-Oriented,R1,Midwest,medium,15,"- https://www.slu.edu/provost/policies/academic-and-course/academic-integrity-policy.pdf 
+- https://www.slu.edu/provost/academic-integrity/index.php 
+- https://www.slu.edu/provost/academic-integrity/glossary-of-terms.php 
+- https://www.slu.edu/provost/academic-integrity/faculty-resources.php 
+- https://www.slu.edu/provost/academic-integrity/faq.php   
+- https://www.slu.edu/provost/ai-guidelines/complete-ai-guidelines.php 
+- https://www.slu.edu/provost/ai-guidelines/index.php ","- https://www.slu.edu/cttl/resources/teaching-at-slu.php  
+- https://www.slu.edu/cttl/resources/resource-docs/syllabus-statement-generative-ai.pdf  
+- https://www.slu.edu/cttl/resources/resource-guides/considering-the-use-of-ai-in-your-course.pdf  
+- https://www.slu.edu/provost/policies/academic-and-course/policy-course-syllabus.pdf 
+- https://www.slu.edu/cttl/resources/resource-guides.php ",- https://www.slu.edu/provost/ai-guidelines/index.php ,- https://libguides.slu.edu/AI ,"- https://www.slu.edu/provost/academic-integrity/faq.php   
+- https://www.slu.edu/provost/academic-integrity/faculty-resources.php   
+- https://www.slu.edu/provost/academic-integrity/glossary-of-terms.php 
+- https://www.slu.edu/provost/policies/academic-and-course/academic-integrity-policy.pdf ",- https://www.slu.edu/provost/ai-guidelines/complete-ai-guidelines.php ,None ,,,
+50,61,56.06,Reed College,U69,45.4405,-122.661,0,0,Teaching-Oriented/Liberal Arts,-,West,small,1,"- https://www.reed.edu/ctl/reflect-generative-ai.html 
+- https://www.reed.edu/governance/title-ix-policy/ ","- https://www.reed.edu/ctl/generative-ai.html 
+- https://www.reed.edu/ctl/resources.html ",None,- https://libguides.reed.edu/chatgpt,None,None,- https://www.reed.edu/academic_support/ ,,,
+51,66,54.55,Southern Wesleyan University,U64,34.6546,-82.7244,0,0,Teaching-Oriented/Liberal Arts,-,South,small,1,- https://libguides.swu.edu/ai,- https://libguides.swu.edu/ai ,None,- https://libguides.swu.edu/ai ,- https://libguides.swu.edu/c.php?g=1412131&p=10458938,None,None,,,
+52,66,54.55,Davidson College,U65,35.4991,-80.8429,0,0,Teaching-Oriented/Liberal Arts,-,South,small,2,- https://www.davidson.edu/ai ,None,"- https://www.davidson.edu/ai
+- https://davidson.libguides.com/generative-ai/home ","- https://davidson.libguides.com/generative-ai/citing-ai
+- https://davidson.libguides.com/generative-ai/home ",- https://www.davidson.edu/ai,None,"- https://support.ti.davidson.edu/hc/en-us/articles/33964136234903-Getting-Started-with-Amplify-Gen-AI-at-Davidson-College 
+- https://support.ti.davidson.edu/hc/en-us/articles/33964433768215-Amplify-Gen-AI-Advanced-Use-Guide-for-Davidson-College 
+- https://support.ti.davidson.edu/hc/en-us/articles/33874438596247-Getting-Started-with-Google-Gemini-at-Davidson-College ",,,
+53,66,54.55,University of Colorado Colorado Springs,U17,38.8458,-104.8214,0,0,Public Research-Oriented,R2,West,medium,11,"- https://oit.uccs.edu/artificial-intelligence
+- https://www.cu.edu/service-desk/how-guides/guidance-artificial-intelligence-tools-use 
+- https://ai.uccs.edu/ ","- https://ai.uccs.edu/ 
+- https://frc.uccs.edu/teaching_resources 
+- https://frc.uccs.edu/teaching_resources/ai_in_academics ","- https://ai.uccs.edu/ 
+- https://www.cu.edu/uis/ai-resources 
+- https://oit.uccs.edu/artificial-intelligence ","- https://libguides.uccs.edu/airesearch   
+- https://ai.uccs.edu/ 
+- https://libguides.uccs.edu/tcid_ai",- https://ai.uccs.edu/ ,None,"- https://ai.uccs.edu/  
+- https://c3innovation.uccs.edu/  ",,,
+54,66,54.55,University of Illinois Urbana-Champaign,U19,40.1106,-88.226,0,0,Public Research-Oriented,R1,Midwest,large,55,"- https://genai.illinois.edu/ethical-and-responsible-use-of-generative-ai/  
+- https://genai.illinois.edu/  
+- https://guides.library.illinois.edu/generativeAI/ethics   
+- https://guides.library.illinois.edu/generativeAI/privacy   
+- https://guides.library.illinois.edu/generativeAI/documenting  
+- https://extension.illinois.edu/commit/ai-guidelines 
+- https://ldlprogram.web.illinois.edu/academic-integrity-statement/ 
+- https://www.vpaa.uillinois.edu/digital_risk_management/generative_ai/principles 
+- https://extension.illinois.edu/commit/ai-guidelines 
+- https://genai.illinois.edu/best-practices-using-generative-ai-in-research/ ","- https://citl.illinois.edu/   
+- https://citl.illinois.edu/innovate-us   
+- https://citl.illinois.edu/learn-new-technologies/generative-artificial-intelligence-gen-ai ","- https://ai.ncsa.illinois.edu/   
+- https://www.ncsa.illinois.edu/research/artificial-intelligence/   
+- https://aice.illinois.edu/   
+- https://research.illinois.edu/strategic-partnerships/c3ai   
+- https://genai.illinois.edu/ ","- https://guides.library.illinois.edu/generativeAI   
+- https://guides.library.illinois.edu/generativeAI/researchai   
+- https://guides.library.illinois.edu/generativeAI/ethics   
+- https://guides.library.illinois.edu/generativeAI/experts   ","- https://genai.illinois.edu/best-practices-teaching-and-learning/   
+- https://genai.illinois.edu/best-practice-notify-learners-of-expectations-for-using-generative-ai-to-support-learning/   
+- https://genai.illinois.edu/best-practice-acknowledge-ai-use-and-cite-ai-generated-content/  
+- https://genai.illinois.edu/best-practice-use-generative-ai-for-assessment-and-feedback/  
+- https://genai.illinois.edu/best-practice-leverage-personalized-learning-support/   
+- https://citl.illinois.edu/generative-artificial-intelligence-gen-ai/teaching-implications   ","- https://provost.illinois.edu/about/committees/education-2/campus-ai-curriculum-task-force/ 
+- https://boldly.illinois.edu/being-bold/ ","- https://ncsa.illinois.edu/research/artificial-intelligence/   
+- https://ai.ncsa.illinois.edu/     
+- https://ai.ncsa.illinois.edu/center-for-artificial-intelligence-innovation/   
+- https://citl.illinois.edu/learn-new-technologies/generative-artificial-intelligence-gen-ai  
+- https://research.illinois.edu/researchunit/artificial-intelligence-future-agricultural-resilience-management-and-sustainability    
+- https://icap.sustainability.illinois.edu/project-update/artificial-intelligence-managing-%E2%80%9Chigh-tunnel%E2%80%9D-food-production   ",,,
+55,70,53.03,Wichita State University,U23,37.6889,-97.3361,0,0,Public Research-Oriented,R2,Midwest,medium,18,"- https://www.wichita.edu/about/student_conduct/AIVAI.php 
+- https://www.wichita.edu/services/mrc/OIR/AI/security.php 
+- https://www.wichita.edu/academics/academic_affairs/fare/syllabuspolicies.php 
+- https://www.wichita.edu/services/mrc/OIR/AI/ethics.php ",- https://www.wichita.edu/services/mrc/OIR/AI/index.php ,"- https://www.wichita.edu/academics/applied_studies/School_of_Education/Programs/aigenlab.php 
+- https://www.wichita.edu/services/mrc/OIR/AI/index.php 
+- https://www.wichita.edu/industry_and_defense/ai-sec/ai-sec-index.php ","- https://libraries.wichita.edu/ArtificialIntelligence   
+- https://libraries.wichita.edu/ai   
+- https://libraries.wichita.edu/c.php?g=1005148&p=10232293 ",- https://www.wichita.edu/about/student_conduct/AIVAI.php  ,"- https://www.wichita.edu/academics/facultysenate/adhoccomtes.php 
+- https://www.wichita.edu/services/mrc/ai-interest-group.php ",- https://libraries.wichita.edu/ArtificialIntelligence ,,,
+56,72,51.52,Wofford College,U67,34.7013,-82.7239,0,0,Teaching-Oriented/Liberal Arts,-,South,small,2,"- https://www.wofford.edu/about/ai-working-group 
+- https://libguides.wofford.edu/AI 
+- https://www.wofford.edu/Wofford.edu/Documents/student-experiences/campus-life/student-handbook.pdf 
+- https://www.wofford.edu/wofford.edu/documents/student-experiences/campus-life/code-of-student-rights-and-responsibilities.pdf ",- https://www.wofford.edu/about/ai-working-group  ,- https://www.wofford.edu/about/ai-working-group,- https://libguides.wofford.edu/AI ,"- https://libguides.wofford.edu/AI   
+- https://www.wofford.edu/about/ai-working-group 
+- https://www.wofford.edu/Wofford.edu/Documents/student-experiences/campus-life/student-handbook.pdf 
+- https://www.wofford.edu/wofford.edu/documents/student-experiences/campus-life/code-of-student-rights-and-responsibilities.pdf 
+- https://www.wofford.edu/Wofford.edu/Documents/Diversity-and-Inclusion/HonorCode.pdf ","- https://www.wofford.edu/about/ai-working-group
+- https://libguides.wofford.edu/c.php?g=1324410&p=9746687 ",None,,,
+57,72,51.52,Georgia Southern University,U6,32.7721,-81.7812,0,0,Public Research-Oriented,R2,South,large,28,- https://digitalcommons.georgiasouthern.edu/provost/51/ ,"- https://www.georgiasouthern.edu/faculty-staff/faculty-center/teaching-resources 
+- https://ww2.georgiasouthern.edu/academics/faculty-center/teaching-at-georgia-southern/ 
+- https://ww2.georgiasouthern.edu/academics/faculty-center/professional-development/badges/ ",- https://www.georgiasouthern.edu/colleges/arts-humanities/research-outreach/ai-task-force ,- https://georgiasouthern.libguides.com/AI ,- https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1050&context=provost ,- https://www.georgiasouthern.edu/colleges/arts-humanities/research-outreach/ai-task-force ,"- https://digitalcommons.georgiasouthern.edu/provost/51/   
+- https://www.georgiasouthern.edu/colleges/arts-humanities/research-outreach/ai-task-force   
+- https://ww2.georgiasouthern.edu/academics/faculty-center/professional-development/badges/   
+- https://ww2.georgiasouthern.edu/academics/ce/ai-impact-conference-understanding-and-adapting-to-ai/   
+- https://ww2.georgiasouthern.edu/academics/ce/unlocking-the-power-of-ai/  
+- https://www.georgiasouthern.edu/academics/continuing-professional-education/courses/the-power-of-ai   
+- https://careertraining.georgiasouthern.edu/training-programs/data-science-and-artificial-intelligence-course/ ",,,
+58,72,51.52,University of Denver,U45,39.6784,-104.9627,0,0,Private Research-Oriented,R1,West,medium,13,"- https://libguides.du.edu/AIpolicy 
+- https://otl.du.edu/plan-a-course/teaching-resources/artificial-intelligence-ai-in-the-classroom/concerns-about-ai-programs/ 
+- https://studentaffairs.du.edu/sites/default/files/2023-09/Honor%20Code%202023%202024%20PublishB%201.pdf ","- https://otl.du.edu/plan-a-course/teaching-resources/artificial-intelligence-ai-in-the-classroom/   
+- https://otl.du.edu/plan-a-course/teaching-resources/artificial-intelligence-ai-in-the-classroom/du-faculty-features-how-faculty-are-using-ai-in-the-classroom/   
+- https://otl.du.edu/plan-a-course/teaching-resources/sample-syllabus-statements/ ",- https://www.du.edu/artificial-intelligence ,"- https://www.du.edu/artificial-intelligence/research   
+- https://libguides.du.edu/AIpolicy ",- https://studentaffairs.du.edu/sites/default/files/2023-09/Honor%20Code%202023%202024%20PublishB%201.pdf ,None,None,,,
+59,75,50,Westminster University,U71,40.7376,-111.8441,0,0,Teaching-Oriented/Liberal Arts,-,West,small,1,None,None,None,- https://westminsteru.edu/academics/giovale-library/citation-resources.html ,None,None,None,,,
+60,76,48.48,Ball State University,U25,40.1981,-85.4102,0,0,Public Research-Oriented,R2,Midwest,large,20,"- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-guidelines   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/academic-integrity   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-tools   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-resources   
+- https://www.bsu.edu/about/administrativeoffices/vice-provost/faculty-services/professional-development/academic-integrity-and-ai   
+- https://www.bsu.edu/academics/centersandinstitutes/writingcenter/artificial-intelligence ","- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-courses-and-training 
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/getting-started-with-ai ","- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives 
+- https://www.bsu.edu/academics/centersandinstitutes/writingcenter/artificial-intelligence 
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-guidelines ","- https://bsu.libguides.com/AIinformationresources 
+- https://bsu.libguides.com/c.php?g=1395427&p=10320859 ","- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/academic-integrity   
+- https://www.bsu.edu/about/administrativeoffices/vice-provost/faculty-services/professional-development/academic-integrity-and-ai   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives ",None,"- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-guidelines   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-tools   
+- https://www.bsu.edu/about/administrativeoffices/information-technology/services/ai-initiatives/ai-resources   ",,,
+61,79,48.48,Rhodes College,U66,35.134,-90.052,0,0,Teaching-Oriented/Liberal Arts,-,South,small,2,"- https://catalog.rhodes.edu/educational-program/academic-regulations 
+- https://sites.rhodes.edu/sites/sites/files/2025-03/Artificial_Intelligence_Guidelines.pdf ",- https://sites.rhodes.edu/faculty-development-and-mentoring/support-teaching ,- https://sites.rhodes.edu/sites/sites/files/2025-03/Artificial_Intelligence_Guidelines.pdf ,- https://libguides.rhodes.edu/GenerativeAI ,- https://catalog.rhodes.edu/educational-program/academic-regulations ,None,- https://sites.rhodes.edu/sites/sites/files/2023-12/Rhodes_AI_Pamphlet_Part_1.pdf ,,,
+62,79,48.48,Brown University,U57,41.8268,-71.4025,0,0,Private Research-Oriented,R1,Northeast,medium,11,- https://ithelp.brown.edu/kb/articles/protecting-information-when-using-ai-tools ,"- https://sheridan.brown.edu/resources/classroom-practices/intentional-pedagogy-ai-technology   
+- https://sheridan.brown.edu/resources/digital-online-teaching 
+- https://sheridan.brown.edu/resources/teaching-ai-mind",None,"- https://libguides.brown.edu/AI   
+- https://library.brown.edu/create/libnews/critical-ai-learning-community-fall-2025/   
+- https://library.brown.edu/create/cds/experiments-in-artificial-intelligence-digital-scholarship/ ",None,None,None,,,
+63,79,48.48,Clark University,U63,42.2382,-71.528,0,0,Private Research-Oriented,R2,Northeast,small,4,None,None,"- https://www.clarku.edu/advancement-lab/
+- https://www.clarku.edu/library/2025/11/03/generative-ai-101/ ",- https://www.clarku.edu/library/2025/11/03/generative-ai-101/ ,- https://www.clarku.edu/library/2025/11/03/generative-ai-101/,None,None,,,
+64,79,48.48,Abilene Christian University,U38,32.448,-99.7331,0,0,Private Research-Oriented,R2,South,small,6,"- https://guides.acu.edu/facultychatgpt
+- https://guides.acu.edu/c.php?g=1316157&p=9677751",None,None,- https://guides.acu.edu/facultychatgpt ,- None,None,- https://guides.acu.edu/facultychatgpt ,,,
+65,84,46.97,Wesleyan University,U77,41.5565,-72.6568,0,0,Teaching-Oriented/Liberal Arts,-,Northeast,small,3,- https://www.wesleyan.edu/its/policies/Generative%20AI%20Policy.html ,- https://www.wesleyan.edu/cfcd/Generative%20AI%20Statement.html,None,- https://libguides.wesleyan.edu/chatgpt   ,- https://www.wesleyan.edu/studentaffairs/studenthandbook/honor-code.html   ,None,None,,,
+66,84,46.97,Illinois Institute of Technology,U53,41.8339,-87.627,0,0,Private Research-Oriented,R2,Midwest,small,8,"- https://www.iit.edu/cli/faculty-resources/generative-ai-resources 
+- https://webmaster.iit.edu/files/ots/Acceptable-Use-Policy.pdf ",- https://www.iit.edu/cli/ai-teaching-and-learning ,- http://ai.iit.edu/ ,- https://guides.library.iit.edu/ai_chatgpt ,- https://www.iit.edu/academic-affairs/academic-honesty-guidelines ,"- https://www.iit.edu/provost/special-initiatives/core-curriculum-task-force
+- http://ai.iit.edu/#service ",- https://www.iit.edu/act ,,,
+67,84,46.97,Nova Southeastern University,U37,26.0714,-80.2521,0,0,Private Research-Oriented,R1,South,large,22,"- https://www.nova.edu/learning-educational-center/ai/index.html  
+- https://libguides.nova.edu/GenAI/NSU   
+- https://libguides.nova.edu/GenAI ",None,- https://infosec.nova.edu/index.html ,"- https://libguides.nova.edu/GenAI   
+- https://libguides.nova.edu/AI  ","- https://www.nova.edu/publications/chcs/chcs_student_handbook/27/   
+- https://libguides.nova.edu/GenAI/NSU ",- None,- https://www.nova.edu/learning-educational-center/ai/index.html   ,,,
+68,86,45.45,Kean University,U32,40.6674,-74.23,0,0,Public Research-Oriented,R2,Northeast,medium,18,"- https://www.kean.edu/academic-integrity   
+- https://www.kean.edu/media/academic-integrity-policy-0 
+- https://www.kean.edu/media/computer-related-acceptable-use-policy 
+- https://libguides.kean.edu/AI ",- https://www.kean.edu/center-teaching-excellence ,None,"- https://libguides.kean.edu/AI 
+- https://libguides.kean.edu/AIdatabasetools ","- https://www.kean.edu/academic-integrity   
+- https://www.kean.edu/media/academic-integrity-policy   ",None,None,,,
+69,87,43.94,Occidental College,U68,34.1296,-118.212,0,0,Teaching-Oriented/Liberal Arts,-,West,small,2,"- https://libguides.oxy.edu/c.php?g=1294909&p=9510697 
+- https://www.oxy.edu/academics/library/research-support/ai-position-statement ",- https://libguides.oxy.edu/AI/faculty ,None,"- https://www.oxy.edu/academics/library/research-support/academic-technology 
+- https://libguides.oxy.edu/AI 
+- https://www.oxy.edu/academics/library/research-support/ai-position-statement 
+- https://libguides.oxy.edu/copyright_toolkit/AI ",- https://libguides.oxy.edu/AI/students ,None,None,,,
+70,89,43.94,Stevens Institute of Technology,U61,40.744,-74.0259,0,0,Private Research-Oriented,R2,Northeast,small,8,- https://www.stevens.edu/page-chapter/artificial-intelligence,None,"- https://www.stevens.edu/page-minisite-landing/stevens-institute-for-artificial-intelligence 
+- https://www.stevens.edu/it/programs-projects/artificial-intelligence ",- https://library.stevens.edu/ai,None,- https://www.stevens.edu/stevens-institute-for-artificial-intelligence/affiliated-faculty ,None,,,
+71,89,43.94,California Institute of Technology,U43,34.1377,-118.1253,0,0,Private Research-Oriented,R1,West,small,2,"- https://www.imss.caltech.edu/services/collaboration-storage-backups/caltech-ai/guidelines-for-secure-and-ethical-use-of-artificial-intelligence-ai   
+- https://aiinteaching.caltech.edu/  
+- https://www.hss.caltech.edu/hss-policies/hss-policy-on-generative-ai 
+- https://caltech.app.box.com/s/nbp3eg1x5h6ye3nznoi3118f5imjtxoj ","- https://ctlo.caltech.edu/universityteaching/resources/resources-for-teaching-in-the-age-of-ai 
+- https://aiinteaching.caltech.edu/   
+- https://writing.caltech.edu/resources-for-instructors/generative-ai-and-college-writing ",- https://ai4science.caltech.edu/   ,None,"- https://aiinteaching.caltech.edu/ 
+- https://caltech.app.box.com/s/nbp3eg1x5h6ye3nznoi3118f5imjtxoj ",None,"- https://ist.caltech.edu/ai4science   
+- https://cast.caltech.edu/   
+- https://ctme.caltech.edu/ai-ml-lab-for-engineering-and-science.html   ",,,
+72,91,42.42,Long Island University,U62,40.75,-73.868,0,0,Private Research-Oriented,R2,Northeast,medium,15,"- https://liu.cwp.libguides.com/c.php?g=1356512 
+- https://liu.edu/content/policy/aa/AA-Use-of-Artificial-Intelligence-Statement.pdf ",None,"- https://www.liu.edu/AI 
+- https://liu.cwp.libguides.com/c.php?g=1356512 ",- https://liu.cwp.libguides.com/c.php?g=1356512 ,- https://liu.cwp.libguides.com/c.php?g=1356512 ,None,- https://liu.edu/student-success/learning-center/writing-center/For-Students ,,,
+73,92,40.91,Marquette University,U52,43.0389,-87.9289,0,0,Private Research-Oriented,R2,Midwest,medium,12,"- https://www.marquette.edu/center-for-teaching-and-learning/emerging-technologies-artificial-intelligence.php  
+- https://www.marquette.edu/center-for-teaching-and-learning/ai-communicating-with-students.php ","- https://www.marquette.edu/center-for-teaching-and-learning/emerging-technologies-artificial-intelligence.php   
+- https://www.marquette.edu/center-for-teaching-and-learning/ai-communicating-with-students.php 
+- https://www.marquette.edu/center-for-teaching-and-learning/syllabus-guide.php ",- https://www.marquette.edu/center-for-teaching-and-learning/emerging-technologies-artificial-intelligence.php ,- https://libguides.marquette.edu/generative_technologies ,"- https://www.marquette.edu/provost/academic-integrity.php   
+- https://www.marquette.edu/digital-learning/academic-integrity.php   
+- https://www.marquette.edu/center-for-teaching-and-learning/emerging-technologies-artificial-intelligence.php   
+- https://www2.mu.edu/center-for-teaching-and-learning/ai-communicating-with-students.php 
+- https://www.marquette.edu/provost/academic-integrity-tutorial-summary.php ",None,- https://www.marquette.edu/ts/chatbot/ ,,,
+74,94,39.39,Beloit College,U74,42.5083,-89.0305,0,0,Teaching-Oriented/Liberal Arts,-,Midwest,small,1,None,None,- None,- https://guides.beloit.edu/c.php?g=1340175 ,None,None,None,,,
+75,95,34.85,Grinnell College,U72,41.743,-92.7237,0,0,Teaching-Oriented/Liberal Arts,-,Midwest,small,2,None,"- https://www.grinnell.edu/academics/centers-programs-resources/center-teaching-learning-assessment/teaching-resources
+- https://www.grinnell.edu/sites/default/files/docs/2025-07/Grinnell%20Syllabus%20Design%20Guidelines_Version%207_7-14-25.pdf",None,- https://grinnell.libguides.com/ai_in_library_tools,"- https://www.grinnell.edu/doc/academic-honesty-booklet   
+- https://catalog.grinnell.edu/content.php?catoid=38&navoid=6372#honest-academic",None,None,,,
+76,96,31.82,Jackson State University,U9,32.3126,-90.1848,0,0,Public Research-Oriented,R2,South,small,6,"- https://www.jsums.edu/theepathway/common-syllabus-links-for-students/ 
+- https://www.jsums.edu/ai/ ","- https://www.jsums.edu/scholars/main/teaching-learning/ 
+- https://www.jsums.edu/scholars/main/teaching-research-writing-balance/ 
+- https://www.jsums.edu/scholars/#AIONRAMP ","- https://www.jsums.edu/ai/   
+- https://www.jsums.edu/ai-agency/   
+- https://www.jsums.edu/scholars/faculty-ai-literacy-hub/ ",- https://drive.google.com/file/d/182Ra2GDW5cBWbL7zThSsWI4nA7xNuW_w/view ,- https://www.jsums.edu/theepathway/common-syllabus-links-for-students/ ,None,"- https://www.jsums.edu/ai/   
+- https://www.jsums.edu/ai-agency/   
+- https://www.jsums.edu/www.jsums.edu/ai-agency/   
+- https://www.jsums.edu/scholars/faculty-ai-literacy-hub/   
+- https://www.jsums.edu/informationtechnology/dit-software/ ",,,
+77,97,28.79,Clark Atlanta University,U40,33.7488,-84.3916,0,0,Private Research-Oriented,R2,South,small,4,None,None,- https://www.ai4opt.org/aihubcau ,- https://www.ai4opt.org/aihubcau ,None,None,- https://cpd.cau.edu/resources/quinncia/   ,,,
+78,99,27.27,Creighton University,U55,41.2586,-96.0099,0,0,Private Research-Oriented,R2,Midwest,medium,9,- https://catalog.creighton.edu/graduate/administration-policies/academic-responsibility/academic-misconduct-policy/academic-misconduct-policy.pdf ,"- https://www.creighton.edu/about/leadership-key-offices-contacts/office-provost/center-faculty-excellence 
+- https://culibraries.creighton.edu/c.php?g=1334271&p=11204790 ","- https://www.creighton.edu/academics/libraries/emerging-technologies 
+- https://culibraries.creighton.edu/AI ","- https://culibraries.creighton.edu/AI   
+- https://www.creighton.edu/academics/libraries/emerging-technologies   ",- https://catalog.creighton.edu/graduate/administration-policies/academic-responsibility/academic-misconduct-policy/academic-misconduct-policy.pdf ,None,"- https://culibraries.creighton.edu/writing/tools 
+- https://www.creighton.edu/student-success/careercenter/students/grow-your-skills ",,,
+79,99,27.27,University of Massachusetts at Dartmouth,U30,41.6342,-70.922,0,0,Public Research-Oriented,R2,Northeast,small,8,None,- https://www.umassd.edu/ofd/resources/teaching-and-learning-resources/ ,None,- https://guides.lib.umassd.edu/citingAI ,None,None,None,,,
