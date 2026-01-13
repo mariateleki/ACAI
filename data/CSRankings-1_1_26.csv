@@ -1,0 +1,536 @@
+Institution,Count,Count,Faculty
+1,► Carnegie Mellon University,34.3,92
+,,,
+,,,
+2,► Univ. of Illinois at Urbana-Champaign,27.3,62
+,,,
+,,,
+3,► University of Maryland - College Park,20.9,53
+,,,
+,,,
+4,► Univ. of California - San Diego,20.4,73
+,,,
+,,,
+5,► Georgia Institute of Technology,18.9,76
+,,,
+,,,
+6,► Cornell University,16.9,63
+,,,
+,,,
+7,► Univ. of California - Berkeley,16.5,64
+,,,
+,,,
+8,► Stanford University,16.2,45
+,,,
+,,,
+9,► University of Michigan,14.4,51
+,,,
+,,,
+10,► Massachusetts Institute of Technology,14.3,65
+,,,
+,,,
+11,► Johns Hopkins University,13.8,49
+,,,
+,,,
+12,► New York University,13.4,56
+,,,
+,,,
+12,► Univ. of California - Los Angeles,13.4,30
+,,,
+,,,
+14,► University of Texas at Austin,13.3,41
+,,,
+,,,
+15,► University of Southern California,13,47
+,,,
+,,,
+16,► University of Massachusetts Amherst,12.6,39
+,,,
+,,,
+16,► University of Washington,12.6,43
+,,,
+,,,
+18,► Northeastern University,10.9,44
+,,,
+,,,
+19,► University of Illinois at Chicago,10.7,23
+,,,
+,,,
+20,► University of Pennsylvania,10.6,37
+,,,
+,,,
+21,► Pennsylvania State University,10.4,34
+,,,
+,,,
+22,► University of Virginia,10,36
+,,,
+,,,
+22,► University of Wisconsin - Madison,10,54
+,,,
+,,,
+24,► Purdue University,9.8,38
+,,,
+,,,
+25,► Columbia University,9.7,32
+,,,
+,,,
+25,► University of North Carolina,9.7,22
+,,,
+,,,
+27,► Texas A&M University,9.5,32
+,,,
+,,,
+28,► University of Central Florida,9.4,33
+,,,
+,,,
+29,► Arizona State University,8.6,33
+,,,
+,,,
+29,► Boston University,8.6,25
+,,,
+,,,
+29,► Stony Brook University,8.6,32
+,,,
+,,,
+32,► Rutgers University,7.8,29
+,,,
+,,,
+33,► Princeton University,7.6,34
+,,,
+,,,
+34,► Univ. of California - Santa Barbara,7.4,28
+,,,
+,,,
+35,► Rochester Institute of Technology,7.1,23
+,,,
+,,,
+36,► Duke University,6.9,36
+,,,
+,,,
+37,► Michigan State University,6.6,13
+,,,
+,,,
+37,► Ohio State University,6.6,20
+,,,
+,,,
+37,► Virginia Tech,6.6,21
+,,,
+,,,
+40,► University of Texas at Dallas,6.5,23
+,,,
+,,,
+41,► Univ. of California - Davis,6.3,26
+,,,
+,,,
+42,► University of Notre Dame,6,15
+,,,
+,,,
+43,► Northwestern University,5.9,35
+,,,
+,,,
+44,► Harvard University,5.8,28
+,,,
+,,,
+44,► University at Buffalo,5.8,20
+,,,
+,,,
+46,► University of Chicago,5.6,27
+,,,
+,,,
+47,► Univ. of California - Irvine,5.5,26
+,,,
+,,,
+47,► Univ. of California - Santa Cruz,5.5,16
+,,,
+,,,
+49,► Brown University,5.4,18
+,,,
+,,,
+49,► University of Minnesota,5.4,22
+,,,
+,,,
+51,► Rice University,5.2,23
+,,,
+,,,
+52,► Washington University in St. Louis,4.9,16
+,,,
+,,,
+52,► Yale University,4.9,20
+,,,
+,,,
+54,► George Mason University,4.7,23
+,,,
+,,,
+54,► North Carolina State University,4.7,26
+,,,
+,,,
+56,► Univ. of California - Riverside,4.5,21
+,,,
+,,,
+57,► Emory University,4.3,13
+,,,
+,,,
+57,► Oregon State University,4.3,20
+,,,
+,,,
+57,► University of Rochester,4.3,15
+,,,
+,,,
+60,► Dartmouth College,4.2,14
+,,,
+,,,
+61,► Stevens Institute of Technology,4.1,15
+,,,
+,,,
+61,► University of Utah,4.1,22
+,,,
+,,,
+63,► University of Colorado Boulder,4,25
+,,,
+,,,
+64,► Indiana University,3.9,23
+,,,
+,,,
+65,► Univ. of California - Merced,3.8,6
+,,,
+,,,
+66,► University of Texas at Arlington,3.7,11
+,,,
+,,,
+66,► Vanderbilt University,3.7,26
+,,,
+,,,
+68,► UNC - Charlotte,3.5,16
+,,,
+,,,
+69,► College of William and Mary,3.4,11
+,,,
+,,,
+70,► University of Georgia,3.3,13
+,,,
+,,,
+71,► California Institute of Technology,3.2,14
+,,,
+,,,
+71,► University of Oregon,3.2,7
+,,,
+,,,
+73,► Florida State University,3.1,9
+,,,
+,,,
+73,► Lehigh University,3.1,7
+,,,
+,,,
+73,► University of Connecticut,3.1,12
+,,,
+,,,
+73,► Wayne State University,3.1,10
+,,,
+,,,
+77,► NJIT,3,16
+,,,
+,,,
+77,► TTI Chicago,3,10
+,,,
+,,,
+79,► Iowa State University,2.9,11
+,,,
+,,,
+79,► University of Florida,2.9,17
+,,,
+,,,
+81,► University of Arizona,2.8,13
+,,,
+,,,
+81,► University of Delaware,2.8,12
+,,,
+,,,
+81,► University of South Florida,2.8,13
+,,,
+,,,
+84,► Drexel University,2.7,6
+,,,
+,,,
+84,► University of North Texas,2.7,13
+,,,
+,,,
+86,► Temple University,2.6,12
+,,,
+,,,
+87,► Auburn University,2.5,8
+,,,
+,,,
+87,► Rensselaer Polytechnic Institute,2.5,12
+,,,
+,,,
+87,► Tufts University,2.5,14
+,,,
+,,,
+87,► University of Pittsburgh,2.5,12
+,,,
+,,,
+91,► Case Western Reserve University,2.4,10
+,,,
+,,,
+91,► Florida International University,2.4,16
+,,,
+,,,
+91,► Tulane University,2.4,8
+,,,
+,,,
+91,► Univ. of Maryland - Baltimore County,2.4,15
+,,,
+,,,
+91,► University of South Carolina,2.4,10
+,,,
+,,,
+96,► Clemson University,2.2,10
+,,,
+,,,
+96,► Portland State University,2.2,6
+,,,
+,,,
+96,► University of Massachusetts Lowell,2.2,5
+,,,
+,,,
+96,► Washington State University,2.2,9
+,,,
+,,,
+100,► Augusta University,2.1,8
+,,,
+,,,
+100,► Binghamton University,2.1,10
+,,,
+,,,
+100,► Illinois Institute of Technology,2.1,4
+,,,
+,,,
+100,► Syracuse University,2.1,11
+,,,
+,,,
+100,► University of Cincinnati,2.1,6
+,,,
+,,,
+105,► University of New Hampshire,2,4
+,,,
+,,,
+106,► Colorado State University,1.9,5
+,,,
+,,,
+106,► Georgetown University,1.9,8
+,,,
+,,,
+106,► Georgia State University,1.9,7
+,,,
+,,,
+106,► University of Houston,1.9,7
+,,,
+,,,
+106,► University of Iowa,1.9,9
+,,,
+,,,
+106,► University of Memphis,1.9,6
+,,,
+,,,
+106,► West Virginia University,1.9,2
+,,,
+,,,
+113,► University of Kentucky,1.8,5
+,,,
+,,,
+113,► Worcester Polytechnic Institute,1.8,9
+,,,
+,,,
+115,► Brigham Young University,1.7,10
+,,,
+,,,
+115,► University of Nebraska - Omaha,1.7,5
+,,,
+,,,
+117,► Brandeis University,1.6,4
+,,,
+,,,
+117,► CUNY,1.6,13
+,,,
+,,,
+117,► University of Arkansas,1.6,4
+,,,
+,,,
+117,► University of Nebraska,1.6,2
+,,,
+,,,
+117,► University of Texas - El Paso,1.6,2
+,,,
+,,,
+117,► University of Texas at San Antonio,1.6,9
+,,,
+,,,
+123,► Cleveland State University,1.5,5
+,,,
+,,,
+123,► Missouri S&T,1.5,5
+,,,
+,,,
+123,► New York Tech,1.5,2
+,,,
+,,,
+123,► Texas State University,1.5,4
+,,,
+,,,
+123,► University of Massachusetts Boston,1.5,3
+,,,
+,,,
+123,► University of Tennessee,1.5,7
+,,,
+,,,
+129,► Boston College,1.4,3
+,,,
+,,,
+129,► Oakland University,1.4,3
+,,,
+,,,
+129,► Texas Tech University,1.4,4
+,,,
+,,,
+129,► University at Albany - SUNY,1.4,2
+,,,
+,,,
+129,► University of Kansas,1.4,3
+,,,
+,,,
+129,► University of Missouri,1.4,2
+,,,
+,,,
+129,► University of Missouri - Kansas City,1.4,3
+,,,
+,,,
+129,► University of Nevada,1.4,4
+,,,
+,,,
+137,► Baylor University,1.3,2
+,,,
+,,,
+137,► George Washington University,1.3,4
+,,,
+,,,
+137,► Kent State University,1.3,3
+,,,
+,,,
+137,► The University of Alabama,1.3,1
+,,,
+,,,
+137,► UCCS,1.3,3
+,,,
+,,,
+142,► Boise State University,1.2,3
+,,,
+,,,
+142,► DePaul University,1.2,3
+,,,
+,,,
+142,► Florida Atlantic University,1.2,1
+,,,
+,,,
+142,► IUPUI,1.2,2
+,,,
+,,,
+142,► Louisiana State University,1.2,6
+,,,
+,,,
+142,► Nova Southeastern University,1.2,1
+,,,
+,,,
+142,► University of Hawaii at Manoa,1.2,3
+,,,
+,,,
+142,► University of Oklahoma,1.2,4
+,,,
+,,,
+142,► Utah State University,1.2,3
+,,,
+,,,
+142,► Wichita State University,1.2,1
+,,,
+,,,
+152,► Colorado School of Mines,1.1,2
+,,,
+,,,
+152,► Kansas State University,1.1,1
+,,,
+,,,
+152,► Michigan Technological University,1.1,1
+,,,
+,,,
+152,► Mississippi State University,1.1,1
+,,,
+,,,
+152,► Montana State University,1.1,1
+,,,
+,,,
+152,► New Mexico State University,1.1,2
+,,,
+,,,
+152,► Northern Arizona University,1.1,1
+,,,
+,,,
+152,► SIU Carbondale,1.1,1
+,,,
+,,,
+152,► Towson University,1.1,2
+,,,
+,,,
+152,► UNC - Greensboro,1.1,1
+,,,
+,,,
+152,► University of Idaho,1.1,1
+,,,
+,,,
+152,► University of Louisiana - Lafayette,1.1,4
+,,,
+,,,
+152,► University of Louisville,1.1,1
+,,,
+,,,
+152,► University of Southern Mississippi,1.1,1
+,,,
+,,,
+152,► University of Tulsa,1.1,1
+,,,
+,,,
+152,► University of Vermont,1.1,3
+,,,
+,,,
+152,► University of Wisconsin - Milwaukee,1.1,1
+,,,
+,,,
+169,► Florida Institute of Technology,1,1
+,,,
+,,,
+169,► North Dakota State University,1,1
+,,,
+,,,
+169,► Old Dominion University,1,2
+,,,
+,,,
+169,► Southern Methodist University,1,1
+,,,
+,,,
+169,► University of Alabama - Birmingham,1,1
+,,,
+,,,
+169,► University of Miami,1,1
+,,,
+,,,
+169,► University of Michigan-Dearborn,1,1
+,,,
+,,,
+169,► University of New Mexico,1,1
+,,,
+,,,
+169,► University of New Orleans,1,1
+,,,
+,,,
+169,► University of Rhode Island,1,1
+,,,
+,,,
+169,► Virginia Commonwealth University,1,1

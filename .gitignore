@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+token.json
+acai-index/process_prolific_annotations.py
+create-forms-and-studies/credentials.json
+data/google_forms.txt

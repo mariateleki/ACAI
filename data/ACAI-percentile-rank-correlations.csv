@@ -1,0 +1,7 @@
+scheme_1,scheme_2,spearman,pearson
+indicators,equal,0.98,0.98
+indicators,policy_heavy,0.93,0.93
+indicators,teaching_heavy,0.99,0.99
+equal,policy_heavy,0.97,0.97
+equal,teaching_heavy,0.98,0.98
+policy_heavy,teaching_heavy,0.93,0.93

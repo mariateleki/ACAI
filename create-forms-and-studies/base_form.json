@@ -1,0 +1,336 @@
+{
+ "description": {
+  "google": "This study is conducted for research purposes. Data will be collected and analyzed as described in our Privacy Policy, linked here: https://docs.google.com/document/d/1lJ_bzmm7bX-I4BkJUJaggdFmtNRjcyfwJuXXkwIzQio/edit?usp=sharing. Participation is voluntary, and you may exit the study at any time without penalty. By continuing, you confirm that you have reviewed the Privacy Policy and consent to take part in this study.\n\nYou will review publicly available web pages for [UNIVERSITY] to determine whether specific AI-related policy statements are addressed by the institution.\n\nUse ONLY the links provided below and any pages, sections, PDFs, or subpages that are directly reachable by clicking links on those pages (e.g., menus, internal links, or document links). Do NOT use external search engines or sources found from outside this list:\n[LINKS]\n\nEvaluate each statement independently. Spend no more than 5 minutes per statement.\n\nFor each statement:\n\n1. Select EXACTLY ONE classification:\n\n• Present / Yes\n  – A clear statement directly addressing the item is found on an institutional page within 5 minutes.\n\n• Partial / Implicit / Somewhat\n  – The item is mentioned or implied, but key details are missing.\n\n• Absent / No\n  – You reasonably searched the allowed sources and did not find relevant content.\n\n• Unclear or Took Longer Than 5 Minutes\n  – Navigation difficulty, vague language, or time limits prevented a confident decision.\n\n• Conflicting Information\n  – Different institutional sources provide contradictory guidance for the same item.\n\n2. Provide the most relevant URL(s) from the allowed sources that support your selection. If you selected Absent or Unclear, provide the main page(s) you checked.",
+
+  "prolific": "<p>This study is conducted for research purposes. Data will be collected and analyzed as described in our Privacy Policy, linked here: https://docs.google.com/document/d/1lJ_bzmm7bX-I4BkJUJaggdFmtNRjcyfwJuXXkwIzQio/edit?usp=sharing. Participation is voluntary, and you may exit the study at any time without penalty. By continuing, you confirm that you have reviewed the Privacy Policy and consent to take part in this study.\n\n</p><p>You will review <strong>publicly available web pages for [UNIVERSITY]</strong> to determine whether specific AI-related policy statements are addressed by the institution.</p>\n\n<p>Use <strong>only</strong> the links provided below and any pages, sections, PDFs, or subpages that are directly reachable by clicking links on those pages (e.g., menus, internal links, or document links). <strong>Do not use external search engines or sources found from outside this list:</strong></p>\n[LINKS]\n\n<p>Evaluate each statement independently. Spend <strong>no more than 5 minutes per statement</strong>.</p>\n\n<ol>\n<li><strong>Select exactly one classification:</strong>\n<ul>\n<li><strong>Present / Yes</strong> – A clear statement directly addressing the item is found on an institutional page within 5 minutes.</li>\n<li><strong>Partial / Implicit / Somewhat</strong> – The item is mentioned or implied, but key details are missing.</li>\n<li><strong>Absent / No</strong> – You reasonably searched the allowed sources and did not find relevant content.</li>\n<li><strong>Unclear or Took Longer Than 5 Minutes</strong> – Navigation difficulty, vague language, or time limits prevented a confident decision.</li>\n<li><strong>Conflicting Information</strong> – Different institutional sources provide contradictory guidance for the same item.</li>\n</ul>\n</li>\n<li><strong>Provide the most relevant URL(s)</strong> from the allowed sources that support your selection. If you selected <strong>Absent</strong> or <strong>Unclear</strong>, provide the main page(s) you checked.</li>\n</ol>"
+  },
+
+  "items": [
+    {
+      "title": "Provide your Prolific ID in the box below.",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+
+    {
+   "title": "Statement A1: The university defines “AI use,” “AI assistance,” or “AI-generated content.”",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement A1.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement A2: The university defines standards for citing AI-generated material.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement A2.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement B1: The university provides guidance, training, or resources for instructors on AI-related teaching practices.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement B1.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement B2: Official examples of appropriate and/or prohibited AI use are provided (e.g. example AI use cases, example prompts).",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement B2.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement B3: A faculty committee or group focused on teaching and learning about AI exists.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement B3.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement B4: Faculty are offered syllabus language examples (e.g. use AI / don’t use AI / selectively use AI).",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement B4.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement C1: A faculty committee or advisory group focused on university AI policy or governance exists.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement C1.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement C2: A student committee or advisory group focused on university AI policy or governance exists.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement C2.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement C3: The university publishes AI policy update logs or explains revisions.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement C3.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement D1: The university restricts, discourages, or warns against the use of AI detection tools.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement D1.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+
+  {
+   "title": "Statement D2: Student misconduct determinations require human review and cannot be based solely on AI detection tools.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "choiceQuestion": {
+      "type": "RADIO",
+      "options": [
+       { "value": "present/yes" },
+       { "value": "partial/implicit/somewhat" },
+       { "value": "absent/no" },
+       { "value": "unclear or took longer than 5 minutes" },
+       { "value": "conflicting information" }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "title": "Provide link(s) supporting your answer for Statement D2.",
+   "questionItem": {
+    "question": {
+     "required": true,
+     "textQuestion": { "paragraph": true }
+    }
+   }
+  },
+    {
+      "title": "Submit the survey, then return to Prolific and paste the following completion code: COMPLETED42. Thanks!",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "textQuestion": { "paragraph": true }
+        }
+      }
+    }
+  ]
+}

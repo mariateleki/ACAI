@@ -75,15 +75,15 @@ const About = () => {
                 Feedback & Contributions
             </Typography>
 
-            <Typography variant="body1" paragraph>
+            <Typography variant="body1">
                 Corrections, new links, and suggestions are welcome.
             </Typography>
 
             <List dense>
                 <ListItem>
                     <ListItemText primary={
-                        <>Email: <Link href="mailto:xxx@tamu.edu" target="_blank" rel="noreferrer">
-                            xxx@tamu.edu
+                        <>Email: <Link href="mailto:redacted@redacted.redacted" target="_blank" rel="noreferrer">
+                            redacted@redacted.redacted
                         </Link></>
                     }
                     />

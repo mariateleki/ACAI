@@ -18,13 +18,13 @@ function Footer() {
                     Google Sheet
                 </Link>
                 {" · "}
-                <Link href="/about" underline="hover">
+                <Link href="/#/about" underline="hover">
                     About & Feedback
                 </Link>
                 {" · "}
                 Contact:{" "}
-                <Link href="mailto:xxxx@tamu.edu" underline="hover">
-                xxxx@tamu.edu
+                <Link href="mailto:redacted@redacted.redacted" underline="hover">
+                redacted@redacted.redacted
                 </Link>
             </Typography>
         </Box>

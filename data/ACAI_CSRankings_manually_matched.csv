@@ -1,0 +1,80 @@
+Rank,Percentile_Rank,Institution,Index,Type,Research Activity,Regional Coverage,size_bucket,ACAI_indicators,csrankings_rank
+1,1,University of New Hampshire,U27,Public Research-Oriented,R1,Northeast,medium,81.82,105.0
+2,3,Portland State University,U16,Public Research-Oriented,R2,West,large,80.3,96.0
+3,3,Stanford University,U42,Private Research-Oriented,R1,West,medium,80.3,8.0
+4,5,University of Texas at Austin,U2,Public Research-Oriented,R1,South,large,77.27,14.0
+5,6,University of Notre Dame,U49,Private Research-Oriented,R1,Midwest,medium,75.76,42.0
+6,8,Baylor University,U35,Private Research-Oriented,R1,South,large,74.24,137.0
+7,8,University at Buffalo,U28,Public Research-Oriented,R1,Northeast,large,74.24,44.0
+8,11,University of Florida,U5,Public Research-Oriented,R1,South,large,71.21,79.0
+9,11,University of Michigan at Ann Arbor,U18,Public Research-Oriented,R1,Midwest,large,71.21,9
+10,13,Rowan University,U31,Public Research-Oriented,R2,Northeast,large,71.21,-1.0
+11,13,Stony Brook University,U26,Public Research-Oriented,R1,Northeast,large,71.21,29.0
+12,16,Lewis & Clark College,U70,Teaching-Oriented/Liberal Arts,-,West,small,69.7,-1.0
+13,16,"University of California, Berkeley",U11,Public Research-Oriented,R1,West,large,69.7,7.0
+14,19,Texas A&M University,U1,Public Research-Oriented,R1,South,large,69.7,27.0
+15,19,Case Western Reserve University,U50,Private Research-Oriented,R1,Midwest,medium,69.7,91.0
+16,19,Lafayette College,U79,Teaching-Oriented/Liberal Arts,-,Northeast,small,69.7,-1.0
+17,22,"California State University, Long Beach",U14,Public Research-Oriented,R2,West,large,68.18,-1.0
+18,22,University of North Carolina at Chapel Hill,U3,Public Research-Oriented,R1,South,large,68.18,25.0
+19,27,Cornell University,U56,Private Research-Oriented,R1,Northeast,medium,68.18,6.0
+20,27,Brandeis University,U58,Private Research-Oriented,R1,Northeast,small,68.18,117.0
+21,27,Southern Methodist University,U36,Private Research-Oriented,R1,South,medium,68.18,169.0
+22,27,Chapman University,U47,Private Research-Oriented,R2,West,medium,68.18,-1.0
+23,27,Howard University,U34,Private Research-Oriented,R1,South,medium,68.18,-1.0
+24,31,University of South Florida,U4,Public Research-Oriented,R1,South,large,66.67,81.0
+25,31,Syracuse University,U59,Private Research-Oriented,R1,Northeast,large,66.67,100.0
+26,34,University of Wyoming,U10,Public Research-Oriented,R1,West,medium,65.15,-1.0
+27,34,The Ohio State University,U20,Public Research-Oriented,R1,Midwest,large,65.15,37.0
+28,34,University of Southern California,U44,Private Research-Oriented,R1,West,large,65.15,15.0
+29,37,Mercer University,U39,Private Research-Oriented,R2,South,medium,63.64,-1.0
+30,40,DePaul University,U54,Private Research-Oriented,R2,Midwest,large,63.64,142.0
+31,40,Arizona State University,U13,Public Research-Oriented,R1,West,large,63.64,29.0
+32,40,Northern Illinois University,U24,Public Research-Oriented,R2,Midwest,medium,63.64,-1.0
+33,40,University of South Alabama,U8,Public Research-Oriented,R2,South,medium,63.64,-1.0
+34,44,Fordham University,U60,Private Research-Oriented,R2,Northeast,medium,63.64,-1.0
+35,44,Florida Institute of Technology,U41,Private Research-Oriented,R2,South,small,63.64,169.0
+36,46,Illinois State University,U22,Public Research-Oriented,R2,Midwest,large,62.12,-1.0
+37,49,Pepperdine University,U46,Private Research-Oriented,R2,West,medium,60.61,-1.0
+38,49,University of Chicago,U48,Private Research-Oriented,R1,Midwest,large,60.61,46.0
+39,49,Montclair State University,U33,Public Research-Oriented,R2,Northeast,medium,60.61,-1.0
+40,49,Binghamton University,U29,Public Research-Oriented,R1,Northeast,medium,60.61,100.0
+41,49,Lake Forest College,U75,Teaching-Oriented/Liberal Arts,-,Midwest,small,60.61,-1.0
+42,53,Iowa State University,U21,Public Research-Oriented,R1,Midwest,large,57.58,79.0
+43,56,Carleton College,U73,Teaching-Oriented/Liberal Arts,-,Midwest,small,57.58,-1.0
+44,56,University of Washington-Seattle,U12,Public Research-Oriented,R1,West,large,57.58,16.0
+45,56,San José State University,U15,Public Research-Oriented,R2,West,large,57.58,-1.0
+46,61,Southern University and A & M College,U7,Public Research-Oriented,R2,South,small,56.06,-1.0
+47,61,Colby College,U76,Teaching-Oriented/Liberal Arts,-,Northeast,small,56.06,-1.0
+48,61,Skidmore College,U78,Teaching-Oriented/Liberal Arts,-,Northeast,small,56.06,-1.0
+49,61,Saint Louis University,U51,Private Research-Oriented,R1,Midwest,medium,56.06,-1.0
+50,61,Reed College,U69,Teaching-Oriented/Liberal Arts,-,West,small,56.06,-1.0
+51,66,Southern Wesleyan University,U64,Teaching-Oriented/Liberal Arts,-,South,small,54.55,-1.0
+52,66,Davidson College,U65,Teaching-Oriented/Liberal Arts,-,South,small,54.55,-1.0
+53,66,University of Colorado Colorado Springs,U17,Public Research-Oriented,R2,West,medium,54.55,-1.0
+54,66,University of Illinois Urbana-Champaign,U19,Public Research-Oriented,R1,Midwest,large,54.55,2.0
+55,70,Wichita State University,U23,Public Research-Oriented,R2,Midwest,medium,53.03,142.0
+56,72,Wofford College,U67,Teaching-Oriented/Liberal Arts,-,South,small,51.52,-1.0
+57,72,Georgia Southern University,U6,Public Research-Oriented,R2,South,large,51.52,-1.0
+58,72,University of Denver,U45,Private Research-Oriented,R1,West,medium,51.52,-1.0
+59,75,Westminster University,U71,Teaching-Oriented/Liberal Arts,-,West,small,50.0,-1.0
+60,76,Ball State University,U25,Public Research-Oriented,R2,Midwest,large,48.48,-1.0
+61,79,Rhodes College,U66,Teaching-Oriented/Liberal Arts,-,South,small,48.48,-1.0
+62,79,Brown University,U57,Private Research-Oriented,R1,Northeast,medium,48.48,49.0
+63,79,Clark University,U63,Private Research-Oriented,R2,Northeast,small,48.48,-1.0
+64,79,Abilene Christian University,U38,Private Research-Oriented,R2,South,small,48.48,-1.0
+65,84,Wesleyan University,U77,Teaching-Oriented/Liberal Arts,-,Northeast,small,46.97,-1.0
+66,84,Illinois Institute of Technology,U53,Private Research-Oriented,R2,Midwest,small,46.97,100.0
+67,84,Nova Southeastern University,U37,Private Research-Oriented,R1,South,large,46.97,142.0
+68,86,Kean University,U32,Public Research-Oriented,R2,Northeast,medium,45.45,-1.0
+69,87,Occidental College,U68,Teaching-Oriented/Liberal Arts,-,West,small,43.94,-1.0
+70,89,Stevens Institute of Technology,U61,Private Research-Oriented,R2,Northeast,small,43.94,61.0
+71,89,California Institute of Technology,U43,Private Research-Oriented,R1,West,small,43.94,71.0
+72,91,Long Island University,U62,Private Research-Oriented,R2,Northeast,medium,42.42,-1.0
+73,92,Marquette University,U52,Private Research-Oriented,R2,Midwest,medium,40.91,-1.0
+74,94,Beloit College,U74,Teaching-Oriented/Liberal Arts,-,Midwest,small,39.39,-1.0
+75,95,Grinnell College,U72,Teaching-Oriented/Liberal Arts,-,Midwest,small,34.85,-1.0
+76,96,Jackson State University,U9,Public Research-Oriented,R2,South,small,31.82,-1.0
+77,97,Clark Atlanta University,U40,Private Research-Oriented,R2,South,small,28.79,-1.0
+78,99,Creighton University,U55,Private Research-Oriented,R2,Midwest,medium,27.27,-1.0
+79,99,University of Massachusetts at Dartmouth,U30,Public Research-Oriented,R2,Northeast,small,27.27,-1.0
