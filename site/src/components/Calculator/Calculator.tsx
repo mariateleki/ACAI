@@ -114,16 +114,21 @@ export default function Calculator() {
             100;
 
         // Place the user's score within the ACAI-US79 distribution under the
-        // currently selected weighting scheme.
+        // currently selected weighting scheme. Reference scores are stored at
+        // 2-decimal precision (matching process_acai_index.py's .round(2)),
+        // so round the user's score to the same precision before comparing —
+        // otherwise repeating-decimal user scores (e.g. 27.2727…) are read
+        // as strictly above a tied reference (27.27) and inflate the rank.
         const ref = ACAI_US79_SCORES[scheme];
-        const better = ref.filter((s) => s < acaiScore).length;
-        const equal = ref.filter((s) => Math.abs(s - acaiScore) < 1e-9).length;
+        const acaiRounded = Math.round(acaiScore * 100) / 100;
+        const better = ref.filter((s) => s < acaiRounded).length;
+        const equal = ref.filter((s) => s === acaiRounded).length;
         // Percentile rank: fraction strictly worse + half of ties (mid-rank).
         const pct = ((better + 0.5 * equal) / ref.length) * 100;
         // Position the user within the 79-school ranking; clamp at the
         // bottom so the rank never exceeds the dataset size when the user's
         // score is below every audited institution.
-        const rk = Math.min(ref.length, ref.filter((s) => s > acaiScore).length + 1);
+        const rk = Math.min(ref.length, ref.filter((s) => s > acaiRounded).length + 1);
         return {
             acai: acaiScore,
             domainMeans: means,
