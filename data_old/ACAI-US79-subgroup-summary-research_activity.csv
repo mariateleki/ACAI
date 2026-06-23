@@ -1,4 +1,0 @@
-group,n,pearson_r,pearson_p,pearson_sig,spearman_r,spearman_p,spearman_sig,spearman_ci_low,spearman_ci_high,kendall_tau,kendall_p,kendall_sig,mean_abs_rank_diff,median_abs_rank_diff,max_abs_rank_diff
--,48,0.309,0.033,0.31*,0.259,0.075,0.26,-0.083,0.54,0.215,0.037,0.21*,13.146,11.0,45.0
-R1,99,0.195,0.053,0.19,0.291,0.003,0.29**,0.089,0.475,0.22,0.001,0.22**,26.374,21.5,82.0
-R2,90,0.612,0.0,0.61***,0.666,0.0,0.67***,0.52,0.77,0.477,0.0,0.48***,15.878,10.75,66.0
