@@ -23,8 +23,8 @@ function Footer() {
                 </Link>
                 {" · "}
                 Contact:{" "}
-                <Link href="mailto:redacted@redacted.redacted" underline="hover">
-                redacted@redacted.redacted
+                <Link href="mailto:mariateleki@tamu.edu?subject=%5BACAI%5D" underline="hover">
+                mariateleki@tamu.edu
                 </Link>
             </Typography>
         </Box>

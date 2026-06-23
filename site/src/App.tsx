@@ -1,6 +1,7 @@
 import { HashRouter, Routes, Route } from "react-router-dom";
 import { Header, Footer } from "./components/common";
 import { About } from "./components/About";
+import { Calculator } from "./components/Calculator";
 import { Map } from "./components/Map";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<Map />} />
                         <Route path="/about" element={<About />} />
+                        <Route path="/calculator" element={<Calculator />} />
                         <Route path="/*" element={<Map />} />
                     </Routes>
                 </main>

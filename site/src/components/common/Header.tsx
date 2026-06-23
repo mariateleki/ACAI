@@ -5,6 +5,7 @@ import { COLORS } from "../../theme/colors";
 export default function Header() {
     const navItems = [
         { label: "Map", path: "/" },
+        { label: "Self-Scoring Calculator", path: "/calculator" },
         { label: "About", path: "/about" },
     ];
 
@@ -24,7 +25,7 @@ export default function Header() {
                         ACAI-US79
                     </Typography>
                     <Typography variant="body2">
-                        An interactive map of how universities are responding to AI.
+                        Auditing how 79 U.S. universities are governing AI on campus.
                     </Typography>
                 </Box>
                 <Box sx={{ display: "flex", gap: 1 }}>
