@@ -1,0 +1,1 @@
+html,body,#root{height:100%;margin:0}.app{height:100%;display:flex;flex-direction:column}header,footer{height:64px;flex-shrink:0}.content{flex:1;overflow-y:auto}svg:focus,path:focus{outline:none}
