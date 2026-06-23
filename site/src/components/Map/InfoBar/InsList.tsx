@@ -113,7 +113,7 @@ const InsList = ({
             <Box sx={{ width: "98%" }}>
                 <Box display="flex" alignItems="center" justifyContent="space-between" mb={1}>
                     <Typography variant="body2">Size:</Typography>
-                    <Typography variant="body2">~{sizeRange[0]} - {sizeRange[1]}k Students</Typography>
+                    <Typography variant="body2">~{sizeRange[0]}k-{sizeRange[1]}k students</Typography>
                 </Box>
                 <Box sx={{ mx: 3 }}>
                     <Slider
